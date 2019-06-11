@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CPrimeplus"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/C++Code/CPrimeplus/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPrimeplus">
+				<Option output="F:/C++Code/CPrimeplus/cmake-build-debug/CPrimeplus.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/C++Code/CPrimeplus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPrimeplus"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPrimeplus/fast">
+				<Option output="F:/C++Code/CPrimeplus/cmake-build-debug/CPrimeplus.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/C++Code/CPrimeplus/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPrimeplus/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/C++Code/CPrimeplus/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/C++Code/CPrimeplus/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/C++Code/CPrimeplus/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/C++Code/CPrimeplus/10th/practice1/Stack.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/10th/practice1/Stack.h">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/10th/practice1/stacker.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/10th/stock/stock20.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/10th/stock/stock20.h">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/10th/stock/usestock2.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/12th/String/sayings1.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/12th/String/sayings2.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/12th/String/string1.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/12th/String/string1.h">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/12th/placenew/palcenew1.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/12th/queue/bank.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/12th/queue/queue.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/12th/queue/queue.h">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/13th/DMA/dma.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/13th/DMA/dma.h">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/13th/brass/brass.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/13th/brass/brass.h">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/13th/tabletennis/tablenn1.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/13th/tabletennis/tablenn1.h">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/14th/student/student.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/14th/student/studentc.h">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/14th/student/use_stuc.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/9th/practice1/coordin.h">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/9th/practice1/file1.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/9th/practice1/file2.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/main.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -122,464 +122,1922 @@ CPrimeplus/fast:
 	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/build
 .PHONY : CPrimeplus/fast
 
-10th/practice1/Stack.obj: 10th/practice1/Stack.cpp.obj
+HouJieVideoCode/complex_test.obj: HouJieVideoCode/complex_test.cpp.obj
 
-.PHONY : 10th/practice1/Stack.obj
-
-# target to build an object file
-10th/practice1/Stack.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/10th/practice1/Stack.cpp.obj
-.PHONY : 10th/practice1/Stack.cpp.obj
-
-10th/practice1/Stack.i: 10th/practice1/Stack.cpp.i
-
-.PHONY : 10th/practice1/Stack.i
-
-# target to preprocess a source file
-10th/practice1/Stack.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/10th/practice1/Stack.cpp.i
-.PHONY : 10th/practice1/Stack.cpp.i
-
-10th/practice1/Stack.s: 10th/practice1/Stack.cpp.s
-
-.PHONY : 10th/practice1/Stack.s
-
-# target to generate assembly for a file
-10th/practice1/Stack.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/10th/practice1/Stack.cpp.s
-.PHONY : 10th/practice1/Stack.cpp.s
-
-10th/practice1/stacker.obj: 10th/practice1/stacker.cpp.obj
-
-.PHONY : 10th/practice1/stacker.obj
+.PHONY : HouJieVideoCode/complex_test.obj
 
 # target to build an object file
-10th/practice1/stacker.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/10th/practice1/stacker.cpp.obj
-.PHONY : 10th/practice1/stacker.cpp.obj
+HouJieVideoCode/complex_test.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/HouJieVideoCode/complex_test.cpp.obj
+.PHONY : HouJieVideoCode/complex_test.cpp.obj
 
-10th/practice1/stacker.i: 10th/practice1/stacker.cpp.i
+HouJieVideoCode/complex_test.i: HouJieVideoCode/complex_test.cpp.i
 
-.PHONY : 10th/practice1/stacker.i
+.PHONY : HouJieVideoCode/complex_test.i
 
 # target to preprocess a source file
-10th/practice1/stacker.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/10th/practice1/stacker.cpp.i
-.PHONY : 10th/practice1/stacker.cpp.i
+HouJieVideoCode/complex_test.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/HouJieVideoCode/complex_test.cpp.i
+.PHONY : HouJieVideoCode/complex_test.cpp.i
 
-10th/practice1/stacker.s: 10th/practice1/stacker.cpp.s
+HouJieVideoCode/complex_test.s: HouJieVideoCode/complex_test.cpp.s
 
-.PHONY : 10th/practice1/stacker.s
+.PHONY : HouJieVideoCode/complex_test.s
 
 # target to generate assembly for a file
-10th/practice1/stacker.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/10th/practice1/stacker.cpp.s
-.PHONY : 10th/practice1/stacker.cpp.s
+HouJieVideoCode/complex_test.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/HouJieVideoCode/complex_test.cpp.s
+.PHONY : HouJieVideoCode/complex_test.cpp.s
 
-10th/stock/stock20.obj: 10th/stock/stock20.cpp.obj
+Keywords/Keywords_const.obj: Keywords/Keywords_const.cpp.obj
 
-.PHONY : 10th/stock/stock20.obj
+.PHONY : Keywords/Keywords_const.obj
 
 # target to build an object file
-10th/stock/stock20.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/10th/stock/stock20.cpp.obj
-.PHONY : 10th/stock/stock20.cpp.obj
+Keywords/Keywords_const.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const.cpp.obj
+.PHONY : Keywords/Keywords_const.cpp.obj
 
-10th/stock/stock20.i: 10th/stock/stock20.cpp.i
+Keywords/Keywords_const.i: Keywords/Keywords_const.cpp.i
 
-.PHONY : 10th/stock/stock20.i
+.PHONY : Keywords/Keywords_const.i
 
 # target to preprocess a source file
-10th/stock/stock20.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/10th/stock/stock20.cpp.i
-.PHONY : 10th/stock/stock20.cpp.i
+Keywords/Keywords_const.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const.cpp.i
+.PHONY : Keywords/Keywords_const.cpp.i
 
-10th/stock/stock20.s: 10th/stock/stock20.cpp.s
+Keywords/Keywords_const.s: Keywords/Keywords_const.cpp.s
 
-.PHONY : 10th/stock/stock20.s
+.PHONY : Keywords/Keywords_const.s
 
 # target to generate assembly for a file
-10th/stock/stock20.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/10th/stock/stock20.cpp.s
-.PHONY : 10th/stock/stock20.cpp.s
+Keywords/Keywords_const.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const.cpp.s
+.PHONY : Keywords/Keywords_const.cpp.s
 
-10th/stock/usestock2.obj: 10th/stock/usestock2.cpp.obj
+Keywords/Keywords_const_virtual.obj: Keywords/Keywords_const_virtual.cpp.obj
 
-.PHONY : 10th/stock/usestock2.obj
+.PHONY : Keywords/Keywords_const_virtual.obj
 
 # target to build an object file
-10th/stock/usestock2.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/10th/stock/usestock2.cpp.obj
-.PHONY : 10th/stock/usestock2.cpp.obj
+Keywords/Keywords_const_virtual.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const_virtual.cpp.obj
+.PHONY : Keywords/Keywords_const_virtual.cpp.obj
 
-10th/stock/usestock2.i: 10th/stock/usestock2.cpp.i
+Keywords/Keywords_const_virtual.i: Keywords/Keywords_const_virtual.cpp.i
 
-.PHONY : 10th/stock/usestock2.i
+.PHONY : Keywords/Keywords_const_virtual.i
 
 # target to preprocess a source file
-10th/stock/usestock2.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/10th/stock/usestock2.cpp.i
-.PHONY : 10th/stock/usestock2.cpp.i
+Keywords/Keywords_const_virtual.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const_virtual.cpp.i
+.PHONY : Keywords/Keywords_const_virtual.cpp.i
 
-10th/stock/usestock2.s: 10th/stock/usestock2.cpp.s
+Keywords/Keywords_const_virtual.s: Keywords/Keywords_const_virtual.cpp.s
 
-.PHONY : 10th/stock/usestock2.s
+.PHONY : Keywords/Keywords_const_virtual.s
 
 # target to generate assembly for a file
-10th/stock/usestock2.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/10th/stock/usestock2.cpp.s
-.PHONY : 10th/stock/usestock2.cpp.s
+Keywords/Keywords_const_virtual.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const_virtual.cpp.s
+.PHONY : Keywords/Keywords_const_virtual.cpp.s
 
-12th/String/sayings1.obj: 12th/String/sayings1.cpp.obj
+Keywords/Keywords_inline.obj: Keywords/Keywords_inline.cpp.obj
 
-.PHONY : 12th/String/sayings1.obj
+.PHONY : Keywords/Keywords_inline.obj
 
 # target to build an object file
-12th/String/sayings1.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/String/sayings1.cpp.obj
-.PHONY : 12th/String/sayings1.cpp.obj
+Keywords/Keywords_inline.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/Keywords/Keywords_inline.cpp.obj
+.PHONY : Keywords/Keywords_inline.cpp.obj
 
-12th/String/sayings1.i: 12th/String/sayings1.cpp.i
+Keywords/Keywords_inline.i: Keywords/Keywords_inline.cpp.i
 
-.PHONY : 12th/String/sayings1.i
+.PHONY : Keywords/Keywords_inline.i
 
 # target to preprocess a source file
-12th/String/sayings1.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/String/sayings1.cpp.i
-.PHONY : 12th/String/sayings1.cpp.i
+Keywords/Keywords_inline.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/Keywords/Keywords_inline.cpp.i
+.PHONY : Keywords/Keywords_inline.cpp.i
 
-12th/String/sayings1.s: 12th/String/sayings1.cpp.s
+Keywords/Keywords_inline.s: Keywords/Keywords_inline.cpp.s
 
-.PHONY : 12th/String/sayings1.s
+.PHONY : Keywords/Keywords_inline.s
 
 # target to generate assembly for a file
-12th/String/sayings1.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/String/sayings1.cpp.s
-.PHONY : 12th/String/sayings1.cpp.s
+Keywords/Keywords_inline.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/Keywords/Keywords_inline.cpp.s
+.PHONY : Keywords/Keywords_inline.cpp.s
 
-12th/String/sayings2.obj: 12th/String/sayings2.cpp.obj
+Keywords/Keywords_static.obj: Keywords/Keywords_static.cpp.obj
 
-.PHONY : 12th/String/sayings2.obj
+.PHONY : Keywords/Keywords_static.obj
 
 # target to build an object file
-12th/String/sayings2.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/String/sayings2.cpp.obj
-.PHONY : 12th/String/sayings2.cpp.obj
+Keywords/Keywords_static.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/Keywords/Keywords_static.cpp.obj
+.PHONY : Keywords/Keywords_static.cpp.obj
 
-12th/String/sayings2.i: 12th/String/sayings2.cpp.i
+Keywords/Keywords_static.i: Keywords/Keywords_static.cpp.i
 
-.PHONY : 12th/String/sayings2.i
+.PHONY : Keywords/Keywords_static.i
 
 # target to preprocess a source file
-12th/String/sayings2.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/String/sayings2.cpp.i
-.PHONY : 12th/String/sayings2.cpp.i
+Keywords/Keywords_static.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/Keywords/Keywords_static.cpp.i
+.PHONY : Keywords/Keywords_static.cpp.i
 
-12th/String/sayings2.s: 12th/String/sayings2.cpp.s
+Keywords/Keywords_static.s: Keywords/Keywords_static.cpp.s
 
-.PHONY : 12th/String/sayings2.s
+.PHONY : Keywords/Keywords_static.s
 
 # target to generate assembly for a file
-12th/String/sayings2.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/String/sayings2.cpp.s
-.PHONY : 12th/String/sayings2.cpp.s
+Keywords/Keywords_static.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/Keywords/Keywords_static.cpp.s
+.PHONY : Keywords/Keywords_static.cpp.s
 
-12th/String/string1.obj: 12th/String/string1.cpp.obj
+Keywords/Keywords_this.obj: Keywords/Keywords_this.cpp.obj
 
-.PHONY : 12th/String/string1.obj
+.PHONY : Keywords/Keywords_this.obj
 
 # target to build an object file
-12th/String/string1.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/String/string1.cpp.obj
-.PHONY : 12th/String/string1.cpp.obj
+Keywords/Keywords_this.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/Keywords/Keywords_this.cpp.obj
+.PHONY : Keywords/Keywords_this.cpp.obj
 
-12th/String/string1.i: 12th/String/string1.cpp.i
+Keywords/Keywords_this.i: Keywords/Keywords_this.cpp.i
 
-.PHONY : 12th/String/string1.i
+.PHONY : Keywords/Keywords_this.i
 
 # target to preprocess a source file
-12th/String/string1.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/String/string1.cpp.i
-.PHONY : 12th/String/string1.cpp.i
+Keywords/Keywords_this.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/Keywords/Keywords_this.cpp.i
+.PHONY : Keywords/Keywords_this.cpp.i
 
-12th/String/string1.s: 12th/String/string1.cpp.s
+Keywords/Keywords_this.s: Keywords/Keywords_this.cpp.s
 
-.PHONY : 12th/String/string1.s
+.PHONY : Keywords/Keywords_this.s
 
 # target to generate assembly for a file
-12th/String/string1.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/String/string1.cpp.s
-.PHONY : 12th/String/string1.cpp.s
+Keywords/Keywords_this.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/Keywords/Keywords_this.cpp.s
+.PHONY : Keywords/Keywords_this.cpp.s
 
-12th/placenew/palcenew1.obj: 12th/placenew/palcenew1.cpp.obj
+SourceCode/10th/practice1/Stack.obj: SourceCode/10th/practice1/Stack.cpp.obj
 
-.PHONY : 12th/placenew/palcenew1.obj
+.PHONY : SourceCode/10th/practice1/Stack.obj
 
 # target to build an object file
-12th/placenew/palcenew1.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/placenew/palcenew1.cpp.obj
-.PHONY : 12th/placenew/palcenew1.cpp.obj
+SourceCode/10th/practice1/Stack.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/Stack.cpp.obj
+.PHONY : SourceCode/10th/practice1/Stack.cpp.obj
 
-12th/placenew/palcenew1.i: 12th/placenew/palcenew1.cpp.i
+SourceCode/10th/practice1/Stack.i: SourceCode/10th/practice1/Stack.cpp.i
 
-.PHONY : 12th/placenew/palcenew1.i
+.PHONY : SourceCode/10th/practice1/Stack.i
 
 # target to preprocess a source file
-12th/placenew/palcenew1.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/placenew/palcenew1.cpp.i
-.PHONY : 12th/placenew/palcenew1.cpp.i
+SourceCode/10th/practice1/Stack.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/Stack.cpp.i
+.PHONY : SourceCode/10th/practice1/Stack.cpp.i
 
-12th/placenew/palcenew1.s: 12th/placenew/palcenew1.cpp.s
+SourceCode/10th/practice1/Stack.s: SourceCode/10th/practice1/Stack.cpp.s
 
-.PHONY : 12th/placenew/palcenew1.s
+.PHONY : SourceCode/10th/practice1/Stack.s
 
 # target to generate assembly for a file
-12th/placenew/palcenew1.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/placenew/palcenew1.cpp.s
-.PHONY : 12th/placenew/palcenew1.cpp.s
+SourceCode/10th/practice1/Stack.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/Stack.cpp.s
+.PHONY : SourceCode/10th/practice1/Stack.cpp.s
 
-12th/queue/bank.obj: 12th/queue/bank.cpp.obj
+SourceCode/10th/practice1/stacker.obj: SourceCode/10th/practice1/stacker.cpp.obj
 
-.PHONY : 12th/queue/bank.obj
+.PHONY : SourceCode/10th/practice1/stacker.obj
 
 # target to build an object file
-12th/queue/bank.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/queue/bank.cpp.obj
-.PHONY : 12th/queue/bank.cpp.obj
+SourceCode/10th/practice1/stacker.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/stacker.cpp.obj
+.PHONY : SourceCode/10th/practice1/stacker.cpp.obj
 
-12th/queue/bank.i: 12th/queue/bank.cpp.i
+SourceCode/10th/practice1/stacker.i: SourceCode/10th/practice1/stacker.cpp.i
 
-.PHONY : 12th/queue/bank.i
+.PHONY : SourceCode/10th/practice1/stacker.i
 
 # target to preprocess a source file
-12th/queue/bank.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/queue/bank.cpp.i
-.PHONY : 12th/queue/bank.cpp.i
+SourceCode/10th/practice1/stacker.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/stacker.cpp.i
+.PHONY : SourceCode/10th/practice1/stacker.cpp.i
 
-12th/queue/bank.s: 12th/queue/bank.cpp.s
+SourceCode/10th/practice1/stacker.s: SourceCode/10th/practice1/stacker.cpp.s
 
-.PHONY : 12th/queue/bank.s
+.PHONY : SourceCode/10th/practice1/stacker.s
 
 # target to generate assembly for a file
-12th/queue/bank.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/queue/bank.cpp.s
-.PHONY : 12th/queue/bank.cpp.s
+SourceCode/10th/practice1/stacker.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/stacker.cpp.s
+.PHONY : SourceCode/10th/practice1/stacker.cpp.s
 
-12th/queue/queue.obj: 12th/queue/queue.cpp.obj
+SourceCode/10th/stock/stock20.obj: SourceCode/10th/stock/stock20.cpp.obj
 
-.PHONY : 12th/queue/queue.obj
+.PHONY : SourceCode/10th/stock/stock20.obj
 
 # target to build an object file
-12th/queue/queue.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/queue/queue.cpp.obj
-.PHONY : 12th/queue/queue.cpp.obj
+SourceCode/10th/stock/stock20.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/stock20.cpp.obj
+.PHONY : SourceCode/10th/stock/stock20.cpp.obj
 
-12th/queue/queue.i: 12th/queue/queue.cpp.i
+SourceCode/10th/stock/stock20.i: SourceCode/10th/stock/stock20.cpp.i
 
-.PHONY : 12th/queue/queue.i
+.PHONY : SourceCode/10th/stock/stock20.i
 
 # target to preprocess a source file
-12th/queue/queue.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/queue/queue.cpp.i
-.PHONY : 12th/queue/queue.cpp.i
+SourceCode/10th/stock/stock20.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/stock20.cpp.i
+.PHONY : SourceCode/10th/stock/stock20.cpp.i
 
-12th/queue/queue.s: 12th/queue/queue.cpp.s
+SourceCode/10th/stock/stock20.s: SourceCode/10th/stock/stock20.cpp.s
 
-.PHONY : 12th/queue/queue.s
+.PHONY : SourceCode/10th/stock/stock20.s
 
 # target to generate assembly for a file
-12th/queue/queue.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/12th/queue/queue.cpp.s
-.PHONY : 12th/queue/queue.cpp.s
+SourceCode/10th/stock/stock20.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/stock20.cpp.s
+.PHONY : SourceCode/10th/stock/stock20.cpp.s
 
-13th/DMA/dma.obj: 13th/DMA/dma.cpp.obj
+SourceCode/10th/stock/usestock2.obj: SourceCode/10th/stock/usestock2.cpp.obj
 
-.PHONY : 13th/DMA/dma.obj
+.PHONY : SourceCode/10th/stock/usestock2.obj
 
 # target to build an object file
-13th/DMA/dma.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/13th/DMA/dma.cpp.obj
-.PHONY : 13th/DMA/dma.cpp.obj
+SourceCode/10th/stock/usestock2.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/usestock2.cpp.obj
+.PHONY : SourceCode/10th/stock/usestock2.cpp.obj
 
-13th/DMA/dma.i: 13th/DMA/dma.cpp.i
+SourceCode/10th/stock/usestock2.i: SourceCode/10th/stock/usestock2.cpp.i
 
-.PHONY : 13th/DMA/dma.i
+.PHONY : SourceCode/10th/stock/usestock2.i
 
 # target to preprocess a source file
-13th/DMA/dma.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/13th/DMA/dma.cpp.i
-.PHONY : 13th/DMA/dma.cpp.i
+SourceCode/10th/stock/usestock2.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/usestock2.cpp.i
+.PHONY : SourceCode/10th/stock/usestock2.cpp.i
 
-13th/DMA/dma.s: 13th/DMA/dma.cpp.s
+SourceCode/10th/stock/usestock2.s: SourceCode/10th/stock/usestock2.cpp.s
 
-.PHONY : 13th/DMA/dma.s
+.PHONY : SourceCode/10th/stock/usestock2.s
 
 # target to generate assembly for a file
-13th/DMA/dma.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/13th/DMA/dma.cpp.s
-.PHONY : 13th/DMA/dma.cpp.s
+SourceCode/10th/stock/usestock2.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/usestock2.cpp.s
+.PHONY : SourceCode/10th/stock/usestock2.cpp.s
 
-13th/brass/brass.obj: 13th/brass/brass.cpp.obj
+SourceCode/12th/String/sayings1.obj: SourceCode/12th/String/sayings1.cpp.obj
 
-.PHONY : 13th/brass/brass.obj
+.PHONY : SourceCode/12th/String/sayings1.obj
 
 # target to build an object file
-13th/brass/brass.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/13th/brass/brass.cpp.obj
-.PHONY : 13th/brass/brass.cpp.obj
+SourceCode/12th/String/sayings1.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings1.cpp.obj
+.PHONY : SourceCode/12th/String/sayings1.cpp.obj
 
-13th/brass/brass.i: 13th/brass/brass.cpp.i
+SourceCode/12th/String/sayings1.i: SourceCode/12th/String/sayings1.cpp.i
 
-.PHONY : 13th/brass/brass.i
+.PHONY : SourceCode/12th/String/sayings1.i
 
 # target to preprocess a source file
-13th/brass/brass.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/13th/brass/brass.cpp.i
-.PHONY : 13th/brass/brass.cpp.i
+SourceCode/12th/String/sayings1.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings1.cpp.i
+.PHONY : SourceCode/12th/String/sayings1.cpp.i
 
-13th/brass/brass.s: 13th/brass/brass.cpp.s
+SourceCode/12th/String/sayings1.s: SourceCode/12th/String/sayings1.cpp.s
 
-.PHONY : 13th/brass/brass.s
+.PHONY : SourceCode/12th/String/sayings1.s
 
 # target to generate assembly for a file
-13th/brass/brass.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/13th/brass/brass.cpp.s
-.PHONY : 13th/brass/brass.cpp.s
+SourceCode/12th/String/sayings1.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings1.cpp.s
+.PHONY : SourceCode/12th/String/sayings1.cpp.s
 
-13th/tabletennis/tablenn1.obj: 13th/tabletennis/tablenn1.cpp.obj
+SourceCode/12th/String/sayings2.obj: SourceCode/12th/String/sayings2.cpp.obj
 
-.PHONY : 13th/tabletennis/tablenn1.obj
+.PHONY : SourceCode/12th/String/sayings2.obj
 
 # target to build an object file
-13th/tabletennis/tablenn1.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/13th/tabletennis/tablenn1.cpp.obj
-.PHONY : 13th/tabletennis/tablenn1.cpp.obj
+SourceCode/12th/String/sayings2.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings2.cpp.obj
+.PHONY : SourceCode/12th/String/sayings2.cpp.obj
 
-13th/tabletennis/tablenn1.i: 13th/tabletennis/tablenn1.cpp.i
+SourceCode/12th/String/sayings2.i: SourceCode/12th/String/sayings2.cpp.i
 
-.PHONY : 13th/tabletennis/tablenn1.i
+.PHONY : SourceCode/12th/String/sayings2.i
 
 # target to preprocess a source file
-13th/tabletennis/tablenn1.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/13th/tabletennis/tablenn1.cpp.i
-.PHONY : 13th/tabletennis/tablenn1.cpp.i
+SourceCode/12th/String/sayings2.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings2.cpp.i
+.PHONY : SourceCode/12th/String/sayings2.cpp.i
 
-13th/tabletennis/tablenn1.s: 13th/tabletennis/tablenn1.cpp.s
+SourceCode/12th/String/sayings2.s: SourceCode/12th/String/sayings2.cpp.s
 
-.PHONY : 13th/tabletennis/tablenn1.s
+.PHONY : SourceCode/12th/String/sayings2.s
 
 # target to generate assembly for a file
-13th/tabletennis/tablenn1.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/13th/tabletennis/tablenn1.cpp.s
-.PHONY : 13th/tabletennis/tablenn1.cpp.s
+SourceCode/12th/String/sayings2.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings2.cpp.s
+.PHONY : SourceCode/12th/String/sayings2.cpp.s
 
-14th/student/student.obj: 14th/student/student.cpp.obj
+SourceCode/12th/String/string1.obj: SourceCode/12th/String/string1.cpp.obj
 
-.PHONY : 14th/student/student.obj
+.PHONY : SourceCode/12th/String/string1.obj
 
 # target to build an object file
-14th/student/student.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/14th/student/student.cpp.obj
-.PHONY : 14th/student/student.cpp.obj
+SourceCode/12th/String/string1.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/string1.cpp.obj
+.PHONY : SourceCode/12th/String/string1.cpp.obj
 
-14th/student/student.i: 14th/student/student.cpp.i
+SourceCode/12th/String/string1.i: SourceCode/12th/String/string1.cpp.i
 
-.PHONY : 14th/student/student.i
+.PHONY : SourceCode/12th/String/string1.i
 
 # target to preprocess a source file
-14th/student/student.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/14th/student/student.cpp.i
-.PHONY : 14th/student/student.cpp.i
+SourceCode/12th/String/string1.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/string1.cpp.i
+.PHONY : SourceCode/12th/String/string1.cpp.i
 
-14th/student/student.s: 14th/student/student.cpp.s
+SourceCode/12th/String/string1.s: SourceCode/12th/String/string1.cpp.s
 
-.PHONY : 14th/student/student.s
+.PHONY : SourceCode/12th/String/string1.s
 
 # target to generate assembly for a file
-14th/student/student.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/14th/student/student.cpp.s
-.PHONY : 14th/student/student.cpp.s
+SourceCode/12th/String/string1.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/string1.cpp.s
+.PHONY : SourceCode/12th/String/string1.cpp.s
 
-14th/student/use_stuc.obj: 14th/student/use_stuc.cpp.obj
+SourceCode/12th/placenew/palcenew1.obj: SourceCode/12th/placenew/palcenew1.cpp.obj
 
-.PHONY : 14th/student/use_stuc.obj
+.PHONY : SourceCode/12th/placenew/palcenew1.obj
 
 # target to build an object file
-14th/student/use_stuc.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/14th/student/use_stuc.cpp.obj
-.PHONY : 14th/student/use_stuc.cpp.obj
+SourceCode/12th/placenew/palcenew1.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/placenew/palcenew1.cpp.obj
+.PHONY : SourceCode/12th/placenew/palcenew1.cpp.obj
 
-14th/student/use_stuc.i: 14th/student/use_stuc.cpp.i
+SourceCode/12th/placenew/palcenew1.i: SourceCode/12th/placenew/palcenew1.cpp.i
 
-.PHONY : 14th/student/use_stuc.i
+.PHONY : SourceCode/12th/placenew/palcenew1.i
 
 # target to preprocess a source file
-14th/student/use_stuc.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/14th/student/use_stuc.cpp.i
-.PHONY : 14th/student/use_stuc.cpp.i
+SourceCode/12th/placenew/palcenew1.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/placenew/palcenew1.cpp.i
+.PHONY : SourceCode/12th/placenew/palcenew1.cpp.i
 
-14th/student/use_stuc.s: 14th/student/use_stuc.cpp.s
+SourceCode/12th/placenew/palcenew1.s: SourceCode/12th/placenew/palcenew1.cpp.s
 
-.PHONY : 14th/student/use_stuc.s
+.PHONY : SourceCode/12th/placenew/palcenew1.s
 
 # target to generate assembly for a file
-14th/student/use_stuc.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/14th/student/use_stuc.cpp.s
-.PHONY : 14th/student/use_stuc.cpp.s
+SourceCode/12th/placenew/palcenew1.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/placenew/palcenew1.cpp.s
+.PHONY : SourceCode/12th/placenew/palcenew1.cpp.s
 
-9th/practice1/file1.obj: 9th/practice1/file1.cpp.obj
+SourceCode/12th/queue/bank.obj: SourceCode/12th/queue/bank.cpp.obj
 
-.PHONY : 9th/practice1/file1.obj
+.PHONY : SourceCode/12th/queue/bank.obj
 
 # target to build an object file
-9th/practice1/file1.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/9th/practice1/file1.cpp.obj
-.PHONY : 9th/practice1/file1.cpp.obj
+SourceCode/12th/queue/bank.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/bank.cpp.obj
+.PHONY : SourceCode/12th/queue/bank.cpp.obj
 
-9th/practice1/file1.i: 9th/practice1/file1.cpp.i
+SourceCode/12th/queue/bank.i: SourceCode/12th/queue/bank.cpp.i
 
-.PHONY : 9th/practice1/file1.i
+.PHONY : SourceCode/12th/queue/bank.i
 
 # target to preprocess a source file
-9th/practice1/file1.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/9th/practice1/file1.cpp.i
-.PHONY : 9th/practice1/file1.cpp.i
+SourceCode/12th/queue/bank.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/bank.cpp.i
+.PHONY : SourceCode/12th/queue/bank.cpp.i
 
-9th/practice1/file1.s: 9th/practice1/file1.cpp.s
+SourceCode/12th/queue/bank.s: SourceCode/12th/queue/bank.cpp.s
 
-.PHONY : 9th/practice1/file1.s
+.PHONY : SourceCode/12th/queue/bank.s
 
 # target to generate assembly for a file
-9th/practice1/file1.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/9th/practice1/file1.cpp.s
-.PHONY : 9th/practice1/file1.cpp.s
+SourceCode/12th/queue/bank.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/bank.cpp.s
+.PHONY : SourceCode/12th/queue/bank.cpp.s
 
-9th/practice1/file2.obj: 9th/practice1/file2.cpp.obj
+SourceCode/12th/queue/queue.obj: SourceCode/12th/queue/queue.cpp.obj
 
-.PHONY : 9th/practice1/file2.obj
+.PHONY : SourceCode/12th/queue/queue.obj
 
 # target to build an object file
-9th/practice1/file2.cpp.obj:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/9th/practice1/file2.cpp.obj
-.PHONY : 9th/practice1/file2.cpp.obj
+SourceCode/12th/queue/queue.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/queue.cpp.obj
+.PHONY : SourceCode/12th/queue/queue.cpp.obj
 
-9th/practice1/file2.i: 9th/practice1/file2.cpp.i
+SourceCode/12th/queue/queue.i: SourceCode/12th/queue/queue.cpp.i
 
-.PHONY : 9th/practice1/file2.i
+.PHONY : SourceCode/12th/queue/queue.i
 
 # target to preprocess a source file
-9th/practice1/file2.cpp.i:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/9th/practice1/file2.cpp.i
-.PHONY : 9th/practice1/file2.cpp.i
+SourceCode/12th/queue/queue.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/queue.cpp.i
+.PHONY : SourceCode/12th/queue/queue.cpp.i
 
-9th/practice1/file2.s: 9th/practice1/file2.cpp.s
+SourceCode/12th/queue/queue.s: SourceCode/12th/queue/queue.cpp.s
 
-.PHONY : 9th/practice1/file2.s
+.PHONY : SourceCode/12th/queue/queue.s
 
 # target to generate assembly for a file
-9th/practice1/file2.cpp.s:
-	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/9th/practice1/file2.cpp.s
-.PHONY : 9th/practice1/file2.cpp.s
+SourceCode/12th/queue/queue.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/queue.cpp.s
+.PHONY : SourceCode/12th/queue/queue.cpp.s
+
+SourceCode/13th/DMA/dma.obj: SourceCode/13th/DMA/dma.cpp.obj
+
+.PHONY : SourceCode/13th/DMA/dma.obj
+
+# target to build an object file
+SourceCode/13th/DMA/dma.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/13th/DMA/dma.cpp.obj
+.PHONY : SourceCode/13th/DMA/dma.cpp.obj
+
+SourceCode/13th/DMA/dma.i: SourceCode/13th/DMA/dma.cpp.i
+
+.PHONY : SourceCode/13th/DMA/dma.i
+
+# target to preprocess a source file
+SourceCode/13th/DMA/dma.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/13th/DMA/dma.cpp.i
+.PHONY : SourceCode/13th/DMA/dma.cpp.i
+
+SourceCode/13th/DMA/dma.s: SourceCode/13th/DMA/dma.cpp.s
+
+.PHONY : SourceCode/13th/DMA/dma.s
+
+# target to generate assembly for a file
+SourceCode/13th/DMA/dma.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/13th/DMA/dma.cpp.s
+.PHONY : SourceCode/13th/DMA/dma.cpp.s
+
+SourceCode/13th/brass/brass.obj: SourceCode/13th/brass/brass.cpp.obj
+
+.PHONY : SourceCode/13th/brass/brass.obj
+
+# target to build an object file
+SourceCode/13th/brass/brass.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/13th/brass/brass.cpp.obj
+.PHONY : SourceCode/13th/brass/brass.cpp.obj
+
+SourceCode/13th/brass/brass.i: SourceCode/13th/brass/brass.cpp.i
+
+.PHONY : SourceCode/13th/brass/brass.i
+
+# target to preprocess a source file
+SourceCode/13th/brass/brass.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/13th/brass/brass.cpp.i
+.PHONY : SourceCode/13th/brass/brass.cpp.i
+
+SourceCode/13th/brass/brass.s: SourceCode/13th/brass/brass.cpp.s
+
+.PHONY : SourceCode/13th/brass/brass.s
+
+# target to generate assembly for a file
+SourceCode/13th/brass/brass.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/13th/brass/brass.cpp.s
+.PHONY : SourceCode/13th/brass/brass.cpp.s
+
+SourceCode/13th/tabletennis/tablenn1.obj: SourceCode/13th/tabletennis/tablenn1.cpp.obj
+
+.PHONY : SourceCode/13th/tabletennis/tablenn1.obj
+
+# target to build an object file
+SourceCode/13th/tabletennis/tablenn1.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/13th/tabletennis/tablenn1.cpp.obj
+.PHONY : SourceCode/13th/tabletennis/tablenn1.cpp.obj
+
+SourceCode/13th/tabletennis/tablenn1.i: SourceCode/13th/tabletennis/tablenn1.cpp.i
+
+.PHONY : SourceCode/13th/tabletennis/tablenn1.i
+
+# target to preprocess a source file
+SourceCode/13th/tabletennis/tablenn1.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/13th/tabletennis/tablenn1.cpp.i
+.PHONY : SourceCode/13th/tabletennis/tablenn1.cpp.i
+
+SourceCode/13th/tabletennis/tablenn1.s: SourceCode/13th/tabletennis/tablenn1.cpp.s
+
+.PHONY : SourceCode/13th/tabletennis/tablenn1.s
+
+# target to generate assembly for a file
+SourceCode/13th/tabletennis/tablenn1.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/13th/tabletennis/tablenn1.cpp.s
+.PHONY : SourceCode/13th/tabletennis/tablenn1.cpp.s
+
+SourceCode/14th/student/student.obj: SourceCode/14th/student/student.cpp.obj
+
+.PHONY : SourceCode/14th/student/student.obj
+
+# target to build an object file
+SourceCode/14th/student/student.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/student.cpp.obj
+.PHONY : SourceCode/14th/student/student.cpp.obj
+
+SourceCode/14th/student/student.i: SourceCode/14th/student/student.cpp.i
+
+.PHONY : SourceCode/14th/student/student.i
+
+# target to preprocess a source file
+SourceCode/14th/student/student.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/student.cpp.i
+.PHONY : SourceCode/14th/student/student.cpp.i
+
+SourceCode/14th/student/student.s: SourceCode/14th/student/student.cpp.s
+
+.PHONY : SourceCode/14th/student/student.s
+
+# target to generate assembly for a file
+SourceCode/14th/student/student.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/student.cpp.s
+.PHONY : SourceCode/14th/student/student.cpp.s
+
+SourceCode/14th/student/use_stuc.obj: SourceCode/14th/student/use_stuc.cpp.obj
+
+.PHONY : SourceCode/14th/student/use_stuc.obj
+
+# target to build an object file
+SourceCode/14th/student/use_stuc.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/use_stuc.cpp.obj
+.PHONY : SourceCode/14th/student/use_stuc.cpp.obj
+
+SourceCode/14th/student/use_stuc.i: SourceCode/14th/student/use_stuc.cpp.i
+
+.PHONY : SourceCode/14th/student/use_stuc.i
+
+# target to preprocess a source file
+SourceCode/14th/student/use_stuc.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/use_stuc.cpp.i
+.PHONY : SourceCode/14th/student/use_stuc.cpp.i
+
+SourceCode/14th/student/use_stuc.s: SourceCode/14th/student/use_stuc.cpp.s
+
+.PHONY : SourceCode/14th/student/use_stuc.s
+
+# target to generate assembly for a file
+SourceCode/14th/student/use_stuc.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/use_stuc.cpp.s
+.PHONY : SourceCode/14th/student/use_stuc.cpp.s
+
+SourceCode/14th/student_1/student_1.obj: SourceCode/14th/student_1/student_1.cpp.obj
+
+.PHONY : SourceCode/14th/student_1/student_1.obj
+
+# target to build an object file
+SourceCode/14th/student_1/student_1.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/student_1.cpp.obj
+.PHONY : SourceCode/14th/student_1/student_1.cpp.obj
+
+SourceCode/14th/student_1/student_1.i: SourceCode/14th/student_1/student_1.cpp.i
+
+.PHONY : SourceCode/14th/student_1/student_1.i
+
+# target to preprocess a source file
+SourceCode/14th/student_1/student_1.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/student_1.cpp.i
+.PHONY : SourceCode/14th/student_1/student_1.cpp.i
+
+SourceCode/14th/student_1/student_1.s: SourceCode/14th/student_1/student_1.cpp.s
+
+.PHONY : SourceCode/14th/student_1/student_1.s
+
+# target to generate assembly for a file
+SourceCode/14th/student_1/student_1.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/student_1.cpp.s
+.PHONY : SourceCode/14th/student_1/student_1.cpp.s
+
+SourceCode/14th/student_1/use_stui.obj: SourceCode/14th/student_1/use_stui.cpp.obj
+
+.PHONY : SourceCode/14th/student_1/use_stui.obj
+
+# target to build an object file
+SourceCode/14th/student_1/use_stui.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/use_stui.cpp.obj
+.PHONY : SourceCode/14th/student_1/use_stui.cpp.obj
+
+SourceCode/14th/student_1/use_stui.i: SourceCode/14th/student_1/use_stui.cpp.i
+
+.PHONY : SourceCode/14th/student_1/use_stui.i
+
+# target to preprocess a source file
+SourceCode/14th/student_1/use_stui.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/use_stui.cpp.i
+.PHONY : SourceCode/14th/student_1/use_stui.cpp.i
+
+SourceCode/14th/student_1/use_stui.s: SourceCode/14th/student_1/use_stui.cpp.s
+
+.PHONY : SourceCode/14th/student_1/use_stui.s
+
+# target to generate assembly for a file
+SourceCode/14th/student_1/use_stui.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/use_stui.cpp.s
+.PHONY : SourceCode/14th/student_1/use_stui.cpp.s
+
+SourceCode/14th/worker/Worker0.obj: SourceCode/14th/worker/Worker0.cpp.obj
+
+.PHONY : SourceCode/14th/worker/Worker0.obj
+
+# target to build an object file
+SourceCode/14th/worker/Worker0.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/Worker0.cpp.obj
+.PHONY : SourceCode/14th/worker/Worker0.cpp.obj
+
+SourceCode/14th/worker/Worker0.i: SourceCode/14th/worker/Worker0.cpp.i
+
+.PHONY : SourceCode/14th/worker/Worker0.i
+
+# target to preprocess a source file
+SourceCode/14th/worker/Worker0.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/Worker0.cpp.i
+.PHONY : SourceCode/14th/worker/Worker0.cpp.i
+
+SourceCode/14th/worker/Worker0.s: SourceCode/14th/worker/Worker0.cpp.s
+
+.PHONY : SourceCode/14th/worker/Worker0.s
+
+# target to generate assembly for a file
+SourceCode/14th/worker/Worker0.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/Worker0.cpp.s
+.PHONY : SourceCode/14th/worker/Worker0.cpp.s
+
+SourceCode/14th/worker/worktest.obj: SourceCode/14th/worker/worktest.cpp.obj
+
+.PHONY : SourceCode/14th/worker/worktest.obj
+
+# target to build an object file
+SourceCode/14th/worker/worktest.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/worktest.cpp.obj
+.PHONY : SourceCode/14th/worker/worktest.cpp.obj
+
+SourceCode/14th/worker/worktest.i: SourceCode/14th/worker/worktest.cpp.i
+
+.PHONY : SourceCode/14th/worker/worktest.i
+
+# target to preprocess a source file
+SourceCode/14th/worker/worktest.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/worktest.cpp.i
+.PHONY : SourceCode/14th/worker/worktest.cpp.i
+
+SourceCode/14th/worker/worktest.s: SourceCode/14th/worker/worktest.cpp.s
+
+.PHONY : SourceCode/14th/worker/worktest.s
+
+# target to generate assembly for a file
+SourceCode/14th/worker/worktest.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/worktest.cpp.s
+.PHONY : SourceCode/14th/worker/worktest.cpp.s
+
+SourceCode/2th/getinfo/getinfo.obj: SourceCode/2th/getinfo/getinfo.cpp.obj
+
+.PHONY : SourceCode/2th/getinfo/getinfo.obj
+
+# target to build an object file
+SourceCode/2th/getinfo/getinfo.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/2th/getinfo/getinfo.cpp.obj
+.PHONY : SourceCode/2th/getinfo/getinfo.cpp.obj
+
+SourceCode/2th/getinfo/getinfo.i: SourceCode/2th/getinfo/getinfo.cpp.i
+
+.PHONY : SourceCode/2th/getinfo/getinfo.i
+
+# target to preprocess a source file
+SourceCode/2th/getinfo/getinfo.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/2th/getinfo/getinfo.cpp.i
+.PHONY : SourceCode/2th/getinfo/getinfo.cpp.i
+
+SourceCode/2th/getinfo/getinfo.s: SourceCode/2th/getinfo/getinfo.cpp.s
+
+.PHONY : SourceCode/2th/getinfo/getinfo.s
+
+# target to generate assembly for a file
+SourceCode/2th/getinfo/getinfo.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/2th/getinfo/getinfo.cpp.s
+.PHONY : SourceCode/2th/getinfo/getinfo.cpp.s
+
+SourceCode/3th/floatnum/floatnum.obj: SourceCode/3th/floatnum/floatnum.cpp.obj
+
+.PHONY : SourceCode/3th/floatnum/floatnum.obj
+
+# target to build an object file
+SourceCode/3th/floatnum/floatnum.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/3th/floatnum/floatnum.cpp.obj
+.PHONY : SourceCode/3th/floatnum/floatnum.cpp.obj
+
+SourceCode/3th/floatnum/floatnum.i: SourceCode/3th/floatnum/floatnum.cpp.i
+
+.PHONY : SourceCode/3th/floatnum/floatnum.i
+
+# target to preprocess a source file
+SourceCode/3th/floatnum/floatnum.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/3th/floatnum/floatnum.cpp.i
+.PHONY : SourceCode/3th/floatnum/floatnum.cpp.i
+
+SourceCode/3th/floatnum/floatnum.s: SourceCode/3th/floatnum/floatnum.cpp.s
+
+.PHONY : SourceCode/3th/floatnum/floatnum.s
+
+# target to generate assembly for a file
+SourceCode/3th/floatnum/floatnum.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/3th/floatnum/floatnum.cpp.s
+.PHONY : SourceCode/3th/floatnum/floatnum.cpp.s
+
+SourceCode/3th/limits/limits.obj: SourceCode/3th/limits/limits.cpp.obj
+
+.PHONY : SourceCode/3th/limits/limits.obj
+
+# target to build an object file
+SourceCode/3th/limits/limits.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/3th/limits/limits.cpp.obj
+.PHONY : SourceCode/3th/limits/limits.cpp.obj
+
+SourceCode/3th/limits/limits.i: SourceCode/3th/limits/limits.cpp.i
+
+.PHONY : SourceCode/3th/limits/limits.i
+
+# target to preprocess a source file
+SourceCode/3th/limits/limits.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/3th/limits/limits.cpp.i
+.PHONY : SourceCode/3th/limits/limits.cpp.i
+
+SourceCode/3th/limits/limits.s: SourceCode/3th/limits/limits.cpp.s
+
+.PHONY : SourceCode/3th/limits/limits.s
+
+# target to generate assembly for a file
+SourceCode/3th/limits/limits.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/3th/limits/limits.cpp.s
+.PHONY : SourceCode/3th/limits/limits.cpp.s
+
+SourceCode/3th/morechar/moretype.obj: SourceCode/3th/morechar/moretype.cpp.obj
+
+.PHONY : SourceCode/3th/morechar/moretype.obj
+
+# target to build an object file
+SourceCode/3th/morechar/moretype.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/3th/morechar/moretype.cpp.obj
+.PHONY : SourceCode/3th/morechar/moretype.cpp.obj
+
+SourceCode/3th/morechar/moretype.i: SourceCode/3th/morechar/moretype.cpp.i
+
+.PHONY : SourceCode/3th/morechar/moretype.i
+
+# target to preprocess a source file
+SourceCode/3th/morechar/moretype.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/3th/morechar/moretype.cpp.i
+.PHONY : SourceCode/3th/morechar/moretype.cpp.i
+
+SourceCode/3th/morechar/moretype.s: SourceCode/3th/morechar/moretype.cpp.s
+
+.PHONY : SourceCode/3th/morechar/moretype.s
+
+# target to generate assembly for a file
+SourceCode/3th/morechar/moretype.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/3th/morechar/moretype.cpp.s
+.PHONY : SourceCode/3th/morechar/moretype.cpp.s
+
+SourceCode/3th/typycast/typecast.obj: SourceCode/3th/typycast/typecast.cpp.obj
+
+.PHONY : SourceCode/3th/typycast/typecast.obj
+
+# target to build an object file
+SourceCode/3th/typycast/typecast.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/3th/typycast/typecast.cpp.obj
+.PHONY : SourceCode/3th/typycast/typecast.cpp.obj
+
+SourceCode/3th/typycast/typecast.i: SourceCode/3th/typycast/typecast.cpp.i
+
+.PHONY : SourceCode/3th/typycast/typecast.i
+
+# target to preprocess a source file
+SourceCode/3th/typycast/typecast.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/3th/typycast/typecast.cpp.i
+.PHONY : SourceCode/3th/typycast/typecast.cpp.i
+
+SourceCode/3th/typycast/typecast.s: SourceCode/3th/typycast/typecast.cpp.s
+
+.PHONY : SourceCode/3th/typycast/typecast.s
+
+# target to generate assembly for a file
+SourceCode/3th/typycast/typecast.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/3th/typycast/typecast.cpp.s
+.PHONY : SourceCode/3th/typycast/typecast.cpp.s
+
+SourceCode/4th/instr/instr2.obj: SourceCode/4th/instr/instr2.cpp.obj
+
+.PHONY : SourceCode/4th/instr/instr2.obj
+
+# target to build an object file
+SourceCode/4th/instr/instr2.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr2.cpp.obj
+.PHONY : SourceCode/4th/instr/instr2.cpp.obj
+
+SourceCode/4th/instr/instr2.i: SourceCode/4th/instr/instr2.cpp.i
+
+.PHONY : SourceCode/4th/instr/instr2.i
+
+# target to preprocess a source file
+SourceCode/4th/instr/instr2.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr2.cpp.i
+.PHONY : SourceCode/4th/instr/instr2.cpp.i
+
+SourceCode/4th/instr/instr2.s: SourceCode/4th/instr/instr2.cpp.s
+
+.PHONY : SourceCode/4th/instr/instr2.s
+
+# target to generate assembly for a file
+SourceCode/4th/instr/instr2.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr2.cpp.s
+.PHONY : SourceCode/4th/instr/instr2.cpp.s
+
+SourceCode/4th/instr/instr3.obj: SourceCode/4th/instr/instr3.cpp.obj
+
+.PHONY : SourceCode/4th/instr/instr3.obj
+
+# target to build an object file
+SourceCode/4th/instr/instr3.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr3.cpp.obj
+.PHONY : SourceCode/4th/instr/instr3.cpp.obj
+
+SourceCode/4th/instr/instr3.i: SourceCode/4th/instr/instr3.cpp.i
+
+.PHONY : SourceCode/4th/instr/instr3.i
+
+# target to preprocess a source file
+SourceCode/4th/instr/instr3.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr3.cpp.i
+.PHONY : SourceCode/4th/instr/instr3.cpp.i
+
+SourceCode/4th/instr/instr3.s: SourceCode/4th/instr/instr3.cpp.s
+
+.PHONY : SourceCode/4th/instr/instr3.s
+
+# target to generate assembly for a file
+SourceCode/4th/instr/instr3.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr3.cpp.s
+.PHONY : SourceCode/4th/instr/instr3.cpp.s
+
+SourceCode/4th/pointer/addpntrs.obj: SourceCode/4th/pointer/addpntrs.cpp.obj
+
+.PHONY : SourceCode/4th/pointer/addpntrs.obj
+
+# target to build an object file
+SourceCode/4th/pointer/addpntrs.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/addpntrs.cpp.obj
+.PHONY : SourceCode/4th/pointer/addpntrs.cpp.obj
+
+SourceCode/4th/pointer/addpntrs.i: SourceCode/4th/pointer/addpntrs.cpp.i
+
+.PHONY : SourceCode/4th/pointer/addpntrs.i
+
+# target to preprocess a source file
+SourceCode/4th/pointer/addpntrs.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/addpntrs.cpp.i
+.PHONY : SourceCode/4th/pointer/addpntrs.cpp.i
+
+SourceCode/4th/pointer/addpntrs.s: SourceCode/4th/pointer/addpntrs.cpp.s
+
+.PHONY : SourceCode/4th/pointer/addpntrs.s
+
+# target to generate assembly for a file
+SourceCode/4th/pointer/addpntrs.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/addpntrs.cpp.s
+.PHONY : SourceCode/4th/pointer/addpntrs.cpp.s
+
+SourceCode/4th/pointer/address.obj: SourceCode/4th/pointer/address.cpp.obj
+
+.PHONY : SourceCode/4th/pointer/address.obj
+
+# target to build an object file
+SourceCode/4th/pointer/address.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/address.cpp.obj
+.PHONY : SourceCode/4th/pointer/address.cpp.obj
+
+SourceCode/4th/pointer/address.i: SourceCode/4th/pointer/address.cpp.i
+
+.PHONY : SourceCode/4th/pointer/address.i
+
+# target to preprocess a source file
+SourceCode/4th/pointer/address.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/address.cpp.i
+.PHONY : SourceCode/4th/pointer/address.cpp.i
+
+SourceCode/4th/pointer/address.s: SourceCode/4th/pointer/address.cpp.s
+
+.PHONY : SourceCode/4th/pointer/address.s
+
+# target to generate assembly for a file
+SourceCode/4th/pointer/address.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/address.cpp.s
+.PHONY : SourceCode/4th/pointer/address.cpp.s
+
+SourceCode/4th/pointer/arraynew.obj: SourceCode/4th/pointer/arraynew.cpp.obj
+
+.PHONY : SourceCode/4th/pointer/arraynew.obj
+
+# target to build an object file
+SourceCode/4th/pointer/arraynew.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/arraynew.cpp.obj
+.PHONY : SourceCode/4th/pointer/arraynew.cpp.obj
+
+SourceCode/4th/pointer/arraynew.i: SourceCode/4th/pointer/arraynew.cpp.i
+
+.PHONY : SourceCode/4th/pointer/arraynew.i
+
+# target to preprocess a source file
+SourceCode/4th/pointer/arraynew.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/arraynew.cpp.i
+.PHONY : SourceCode/4th/pointer/arraynew.cpp.i
+
+SourceCode/4th/pointer/arraynew.s: SourceCode/4th/pointer/arraynew.cpp.s
+
+.PHONY : SourceCode/4th/pointer/arraynew.s
+
+# target to generate assembly for a file
+SourceCode/4th/pointer/arraynew.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/arraynew.cpp.s
+.PHONY : SourceCode/4th/pointer/arraynew.cpp.s
+
+SourceCode/4th/pointer/delete.obj: SourceCode/4th/pointer/delete.cpp.obj
+
+.PHONY : SourceCode/4th/pointer/delete.obj
+
+# target to build an object file
+SourceCode/4th/pointer/delete.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/delete.cpp.obj
+.PHONY : SourceCode/4th/pointer/delete.cpp.obj
+
+SourceCode/4th/pointer/delete.i: SourceCode/4th/pointer/delete.cpp.i
+
+.PHONY : SourceCode/4th/pointer/delete.i
+
+# target to preprocess a source file
+SourceCode/4th/pointer/delete.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/delete.cpp.i
+.PHONY : SourceCode/4th/pointer/delete.cpp.i
+
+SourceCode/4th/pointer/delete.s: SourceCode/4th/pointer/delete.cpp.s
+
+.PHONY : SourceCode/4th/pointer/delete.s
+
+# target to generate assembly for a file
+SourceCode/4th/pointer/delete.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/delete.cpp.s
+.PHONY : SourceCode/4th/pointer/delete.cpp.s
+
+SourceCode/4th/pointer/newstrct.obj: SourceCode/4th/pointer/newstrct.cpp.obj
+
+.PHONY : SourceCode/4th/pointer/newstrct.obj
+
+# target to build an object file
+SourceCode/4th/pointer/newstrct.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/newstrct.cpp.obj
+.PHONY : SourceCode/4th/pointer/newstrct.cpp.obj
+
+SourceCode/4th/pointer/newstrct.i: SourceCode/4th/pointer/newstrct.cpp.i
+
+.PHONY : SourceCode/4th/pointer/newstrct.i
+
+# target to preprocess a source file
+SourceCode/4th/pointer/newstrct.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/newstrct.cpp.i
+.PHONY : SourceCode/4th/pointer/newstrct.cpp.i
+
+SourceCode/4th/pointer/newstrct.s: SourceCode/4th/pointer/newstrct.cpp.s
+
+.PHONY : SourceCode/4th/pointer/newstrct.s
+
+# target to generate assembly for a file
+SourceCode/4th/pointer/newstrct.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/newstrct.cpp.s
+.PHONY : SourceCode/4th/pointer/newstrct.cpp.s
+
+SourceCode/4th/pointer/pointer.obj: SourceCode/4th/pointer/pointer.cpp.obj
+
+.PHONY : SourceCode/4th/pointer/pointer.obj
+
+# target to build an object file
+SourceCode/4th/pointer/pointer.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/pointer.cpp.obj
+.PHONY : SourceCode/4th/pointer/pointer.cpp.obj
+
+SourceCode/4th/pointer/pointer.i: SourceCode/4th/pointer/pointer.cpp.i
+
+.PHONY : SourceCode/4th/pointer/pointer.i
+
+# target to preprocess a source file
+SourceCode/4th/pointer/pointer.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/pointer.cpp.i
+.PHONY : SourceCode/4th/pointer/pointer.cpp.i
+
+SourceCode/4th/pointer/pointer.s: SourceCode/4th/pointer/pointer.cpp.s
+
+.PHONY : SourceCode/4th/pointer/pointer.s
+
+# target to generate assembly for a file
+SourceCode/4th/pointer/pointer.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/pointer.cpp.s
+.PHONY : SourceCode/4th/pointer/pointer.cpp.s
+
+SourceCode/4th/pointer/ptrstr.obj: SourceCode/4th/pointer/ptrstr.cpp.obj
+
+.PHONY : SourceCode/4th/pointer/ptrstr.obj
+
+# target to build an object file
+SourceCode/4th/pointer/ptrstr.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/ptrstr.cpp.obj
+.PHONY : SourceCode/4th/pointer/ptrstr.cpp.obj
+
+SourceCode/4th/pointer/ptrstr.i: SourceCode/4th/pointer/ptrstr.cpp.i
+
+.PHONY : SourceCode/4th/pointer/ptrstr.i
+
+# target to preprocess a source file
+SourceCode/4th/pointer/ptrstr.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/ptrstr.cpp.i
+.PHONY : SourceCode/4th/pointer/ptrstr.cpp.i
+
+SourceCode/4th/pointer/ptrstr.s: SourceCode/4th/pointer/ptrstr.cpp.s
+
+.PHONY : SourceCode/4th/pointer/ptrstr.s
+
+# target to generate assembly for a file
+SourceCode/4th/pointer/ptrstr.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/ptrstr.cpp.s
+.PHONY : SourceCode/4th/pointer/ptrstr.cpp.s
+
+SourceCode/4th/pointer/use_new.obj: SourceCode/4th/pointer/use_new.cpp.obj
+
+.PHONY : SourceCode/4th/pointer/use_new.obj
+
+# target to build an object file
+SourceCode/4th/pointer/use_new.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/use_new.cpp.obj
+.PHONY : SourceCode/4th/pointer/use_new.cpp.obj
+
+SourceCode/4th/pointer/use_new.i: SourceCode/4th/pointer/use_new.cpp.i
+
+.PHONY : SourceCode/4th/pointer/use_new.i
+
+# target to preprocess a source file
+SourceCode/4th/pointer/use_new.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/use_new.cpp.i
+.PHONY : SourceCode/4th/pointer/use_new.cpp.i
+
+SourceCode/4th/pointer/use_new.s: SourceCode/4th/pointer/use_new.cpp.s
+
+.PHONY : SourceCode/4th/pointer/use_new.s
+
+# target to generate assembly for a file
+SourceCode/4th/pointer/use_new.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/use_new.cpp.s
+.PHONY : SourceCode/4th/pointer/use_new.cpp.s
+
+SourceCode/4th/string/strtype.obj: SourceCode/4th/string/strtype.cpp.obj
+
+.PHONY : SourceCode/4th/string/strtype.obj
+
+# target to build an object file
+SourceCode/4th/string/strtype.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype.cpp.obj
+.PHONY : SourceCode/4th/string/strtype.cpp.obj
+
+SourceCode/4th/string/strtype.i: SourceCode/4th/string/strtype.cpp.i
+
+.PHONY : SourceCode/4th/string/strtype.i
+
+# target to preprocess a source file
+SourceCode/4th/string/strtype.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype.cpp.i
+.PHONY : SourceCode/4th/string/strtype.cpp.i
+
+SourceCode/4th/string/strtype.s: SourceCode/4th/string/strtype.cpp.s
+
+.PHONY : SourceCode/4th/string/strtype.s
+
+# target to generate assembly for a file
+SourceCode/4th/string/strtype.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype.cpp.s
+.PHONY : SourceCode/4th/string/strtype.cpp.s
+
+SourceCode/4th/string/strtype3.obj: SourceCode/4th/string/strtype3.cpp.obj
+
+.PHONY : SourceCode/4th/string/strtype3.obj
+
+# target to build an object file
+SourceCode/4th/string/strtype3.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype3.cpp.obj
+.PHONY : SourceCode/4th/string/strtype3.cpp.obj
+
+SourceCode/4th/string/strtype3.i: SourceCode/4th/string/strtype3.cpp.i
+
+.PHONY : SourceCode/4th/string/strtype3.i
+
+# target to preprocess a source file
+SourceCode/4th/string/strtype3.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype3.cpp.i
+.PHONY : SourceCode/4th/string/strtype3.cpp.i
+
+SourceCode/4th/string/strtype3.s: SourceCode/4th/string/strtype3.cpp.s
+
+.PHONY : SourceCode/4th/string/strtype3.s
+
+# target to generate assembly for a file
+SourceCode/4th/string/strtype3.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype3.cpp.s
+.PHONY : SourceCode/4th/string/strtype3.cpp.s
+
+SourceCode/4th/struct/structur.obj: SourceCode/4th/struct/structur.cpp.obj
+
+.PHONY : SourceCode/4th/struct/structur.obj
+
+# target to build an object file
+SourceCode/4th/struct/structur.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/struct/structur.cpp.obj
+.PHONY : SourceCode/4th/struct/structur.cpp.obj
+
+SourceCode/4th/struct/structur.i: SourceCode/4th/struct/structur.cpp.i
+
+.PHONY : SourceCode/4th/struct/structur.i
+
+# target to preprocess a source file
+SourceCode/4th/struct/structur.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/struct/structur.cpp.i
+.PHONY : SourceCode/4th/struct/structur.cpp.i
+
+SourceCode/4th/struct/structur.s: SourceCode/4th/struct/structur.cpp.s
+
+.PHONY : SourceCode/4th/struct/structur.s
+
+# target to generate assembly for a file
+SourceCode/4th/struct/structur.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/4th/struct/structur.cpp.s
+.PHONY : SourceCode/4th/struct/structur.cpp.s
+
+SourceCode/4th/vector&array/choices.obj: SourceCode/4th/vector&array/choices.cpp.obj
+
+.PHONY : SourceCode/4th/vector&array/choices.obj
+
+# target to build an object file
+SourceCode/4th/vector&array/choices.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make "CMakeFiles/CPrimeplus.dir/SourceCode/4th/vector&array/choices.cpp.obj"
+.PHONY : SourceCode/4th/vector&array/choices.cpp.obj
+
+SourceCode/4th/vector&array/choices.i: SourceCode/4th/vector&array/choices.cpp.i
+
+.PHONY : SourceCode/4th/vector&array/choices.i
+
+# target to preprocess a source file
+SourceCode/4th/vector&array/choices.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make "CMakeFiles/CPrimeplus.dir/SourceCode/4th/vector&array/choices.cpp.i"
+.PHONY : SourceCode/4th/vector&array/choices.cpp.i
+
+SourceCode/4th/vector&array/choices.s: SourceCode/4th/vector&array/choices.cpp.s
+
+.PHONY : SourceCode/4th/vector&array/choices.s
+
+# target to generate assembly for a file
+SourceCode/4th/vector&array/choices.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make "CMakeFiles/CPrimeplus.dir/SourceCode/4th/vector&array/choices.cpp.s"
+.PHONY : SourceCode/4th/vector&array/choices.cpp.s
+
+SourceCode/5th/forLoop/compstr1.obj: SourceCode/5th/forLoop/compstr1.cpp.obj
+
+.PHONY : SourceCode/5th/forLoop/compstr1.obj
+
+# target to build an object file
+SourceCode/5th/forLoop/compstr1.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr1.cpp.obj
+.PHONY : SourceCode/5th/forLoop/compstr1.cpp.obj
+
+SourceCode/5th/forLoop/compstr1.i: SourceCode/5th/forLoop/compstr1.cpp.i
+
+.PHONY : SourceCode/5th/forLoop/compstr1.i
+
+# target to preprocess a source file
+SourceCode/5th/forLoop/compstr1.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr1.cpp.i
+.PHONY : SourceCode/5th/forLoop/compstr1.cpp.i
+
+SourceCode/5th/forLoop/compstr1.s: SourceCode/5th/forLoop/compstr1.cpp.s
+
+.PHONY : SourceCode/5th/forLoop/compstr1.s
+
+# target to generate assembly for a file
+SourceCode/5th/forLoop/compstr1.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr1.cpp.s
+.PHONY : SourceCode/5th/forLoop/compstr1.cpp.s
+
+SourceCode/5th/forLoop/compstr2.obj: SourceCode/5th/forLoop/compstr2.cpp.obj
+
+.PHONY : SourceCode/5th/forLoop/compstr2.obj
+
+# target to build an object file
+SourceCode/5th/forLoop/compstr2.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr2.cpp.obj
+.PHONY : SourceCode/5th/forLoop/compstr2.cpp.obj
+
+SourceCode/5th/forLoop/compstr2.i: SourceCode/5th/forLoop/compstr2.cpp.i
+
+.PHONY : SourceCode/5th/forLoop/compstr2.i
+
+# target to preprocess a source file
+SourceCode/5th/forLoop/compstr2.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr2.cpp.i
+.PHONY : SourceCode/5th/forLoop/compstr2.cpp.i
+
+SourceCode/5th/forLoop/compstr2.s: SourceCode/5th/forLoop/compstr2.cpp.s
+
+.PHONY : SourceCode/5th/forLoop/compstr2.s
+
+# target to generate assembly for a file
+SourceCode/5th/forLoop/compstr2.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr2.cpp.s
+.PHONY : SourceCode/5th/forLoop/compstr2.cpp.s
+
+SourceCode/5th/forLoop/forstr1.obj: SourceCode/5th/forLoop/forstr1.cpp.obj
+
+.PHONY : SourceCode/5th/forLoop/forstr1.obj
+
+# target to build an object file
+SourceCode/5th/forLoop/forstr1.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/forstr1.cpp.obj
+.PHONY : SourceCode/5th/forLoop/forstr1.cpp.obj
+
+SourceCode/5th/forLoop/forstr1.i: SourceCode/5th/forLoop/forstr1.cpp.i
+
+.PHONY : SourceCode/5th/forLoop/forstr1.i
+
+# target to preprocess a source file
+SourceCode/5th/forLoop/forstr1.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/forstr1.cpp.i
+.PHONY : SourceCode/5th/forLoop/forstr1.cpp.i
+
+SourceCode/5th/forLoop/forstr1.s: SourceCode/5th/forLoop/forstr1.cpp.s
+
+.PHONY : SourceCode/5th/forLoop/forstr1.s
+
+# target to generate assembly for a file
+SourceCode/5th/forLoop/forstr1.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/forstr1.cpp.s
+.PHONY : SourceCode/5th/forLoop/forstr1.cpp.s
+
+SourceCode/5th/loopAndTextinput/textin1.obj: SourceCode/5th/loopAndTextinput/textin1.cpp.obj
+
+.PHONY : SourceCode/5th/loopAndTextinput/textin1.obj
+
+# target to build an object file
+SourceCode/5th/loopAndTextinput/textin1.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin1.cpp.obj
+.PHONY : SourceCode/5th/loopAndTextinput/textin1.cpp.obj
+
+SourceCode/5th/loopAndTextinput/textin1.i: SourceCode/5th/loopAndTextinput/textin1.cpp.i
+
+.PHONY : SourceCode/5th/loopAndTextinput/textin1.i
+
+# target to preprocess a source file
+SourceCode/5th/loopAndTextinput/textin1.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin1.cpp.i
+.PHONY : SourceCode/5th/loopAndTextinput/textin1.cpp.i
+
+SourceCode/5th/loopAndTextinput/textin1.s: SourceCode/5th/loopAndTextinput/textin1.cpp.s
+
+.PHONY : SourceCode/5th/loopAndTextinput/textin1.s
+
+# target to generate assembly for a file
+SourceCode/5th/loopAndTextinput/textin1.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin1.cpp.s
+.PHONY : SourceCode/5th/loopAndTextinput/textin1.cpp.s
+
+SourceCode/5th/loopAndTextinput/textin2.obj: SourceCode/5th/loopAndTextinput/textin2.cpp.obj
+
+.PHONY : SourceCode/5th/loopAndTextinput/textin2.obj
+
+# target to build an object file
+SourceCode/5th/loopAndTextinput/textin2.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin2.cpp.obj
+.PHONY : SourceCode/5th/loopAndTextinput/textin2.cpp.obj
+
+SourceCode/5th/loopAndTextinput/textin2.i: SourceCode/5th/loopAndTextinput/textin2.cpp.i
+
+.PHONY : SourceCode/5th/loopAndTextinput/textin2.i
+
+# target to preprocess a source file
+SourceCode/5th/loopAndTextinput/textin2.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin2.cpp.i
+.PHONY : SourceCode/5th/loopAndTextinput/textin2.cpp.i
+
+SourceCode/5th/loopAndTextinput/textin2.s: SourceCode/5th/loopAndTextinput/textin2.cpp.s
+
+.PHONY : SourceCode/5th/loopAndTextinput/textin2.s
+
+# target to generate assembly for a file
+SourceCode/5th/loopAndTextinput/textin2.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin2.cpp.s
+.PHONY : SourceCode/5th/loopAndTextinput/textin2.cpp.s
+
+SourceCode/5th/loopAndTextinput/textin3.obj: SourceCode/5th/loopAndTextinput/textin3.cpp.obj
+
+.PHONY : SourceCode/5th/loopAndTextinput/textin3.obj
+
+# target to build an object file
+SourceCode/5th/loopAndTextinput/textin3.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin3.cpp.obj
+.PHONY : SourceCode/5th/loopAndTextinput/textin3.cpp.obj
+
+SourceCode/5th/loopAndTextinput/textin3.i: SourceCode/5th/loopAndTextinput/textin3.cpp.i
+
+.PHONY : SourceCode/5th/loopAndTextinput/textin3.i
+
+# target to preprocess a source file
+SourceCode/5th/loopAndTextinput/textin3.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin3.cpp.i
+.PHONY : SourceCode/5th/loopAndTextinput/textin3.cpp.i
+
+SourceCode/5th/loopAndTextinput/textin3.s: SourceCode/5th/loopAndTextinput/textin3.cpp.s
+
+.PHONY : SourceCode/5th/loopAndTextinput/textin3.s
+
+# target to generate assembly for a file
+SourceCode/5th/loopAndTextinput/textin3.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin3.cpp.s
+.PHONY : SourceCode/5th/loopAndTextinput/textin3.cpp.s
+
+SourceCode/5th/loopAndTextinput/textin4.obj: SourceCode/5th/loopAndTextinput/textin4.cpp.obj
+
+.PHONY : SourceCode/5th/loopAndTextinput/textin4.obj
+
+# target to build an object file
+SourceCode/5th/loopAndTextinput/textin4.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin4.cpp.obj
+.PHONY : SourceCode/5th/loopAndTextinput/textin4.cpp.obj
+
+SourceCode/5th/loopAndTextinput/textin4.i: SourceCode/5th/loopAndTextinput/textin4.cpp.i
+
+.PHONY : SourceCode/5th/loopAndTextinput/textin4.i
+
+# target to preprocess a source file
+SourceCode/5th/loopAndTextinput/textin4.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin4.cpp.i
+.PHONY : SourceCode/5th/loopAndTextinput/textin4.cpp.i
+
+SourceCode/5th/loopAndTextinput/textin4.s: SourceCode/5th/loopAndTextinput/textin4.cpp.s
+
+.PHONY : SourceCode/5th/loopAndTextinput/textin4.s
+
+# target to generate assembly for a file
+SourceCode/5th/loopAndTextinput/textin4.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin4.cpp.s
+.PHONY : SourceCode/5th/loopAndTextinput/textin4.cpp.s
+
+SourceCode/5th/whileLoop/waiting.obj: SourceCode/5th/whileLoop/waiting.cpp.obj
+
+.PHONY : SourceCode/5th/whileLoop/waiting.obj
+
+# target to build an object file
+SourceCode/5th/whileLoop/waiting.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/waiting.cpp.obj
+.PHONY : SourceCode/5th/whileLoop/waiting.cpp.obj
+
+SourceCode/5th/whileLoop/waiting.i: SourceCode/5th/whileLoop/waiting.cpp.i
+
+.PHONY : SourceCode/5th/whileLoop/waiting.i
+
+# target to preprocess a source file
+SourceCode/5th/whileLoop/waiting.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/waiting.cpp.i
+.PHONY : SourceCode/5th/whileLoop/waiting.cpp.i
+
+SourceCode/5th/whileLoop/waiting.s: SourceCode/5th/whileLoop/waiting.cpp.s
+
+.PHONY : SourceCode/5th/whileLoop/waiting.s
+
+# target to generate assembly for a file
+SourceCode/5th/whileLoop/waiting.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/waiting.cpp.s
+.PHONY : SourceCode/5th/whileLoop/waiting.cpp.s
+
+SourceCode/5th/whileLoop/while.obj: SourceCode/5th/whileLoop/while.cpp.obj
+
+.PHONY : SourceCode/5th/whileLoop/while.obj
+
+# target to build an object file
+SourceCode/5th/whileLoop/while.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/while.cpp.obj
+.PHONY : SourceCode/5th/whileLoop/while.cpp.obj
+
+SourceCode/5th/whileLoop/while.i: SourceCode/5th/whileLoop/while.cpp.i
+
+.PHONY : SourceCode/5th/whileLoop/while.i
+
+# target to preprocess a source file
+SourceCode/5th/whileLoop/while.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/while.cpp.i
+.PHONY : SourceCode/5th/whileLoop/while.cpp.i
+
+SourceCode/5th/whileLoop/while.s: SourceCode/5th/whileLoop/while.cpp.s
+
+.PHONY : SourceCode/5th/whileLoop/while.s
+
+# target to generate assembly for a file
+SourceCode/5th/whileLoop/while.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/while.cpp.s
+.PHONY : SourceCode/5th/whileLoop/while.cpp.s
+
+SourceCode/6th/IO/outfile.obj: SourceCode/6th/IO/outfile.cpp.obj
+
+.PHONY : SourceCode/6th/IO/outfile.obj
+
+# target to build an object file
+SourceCode/6th/IO/outfile.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/outfile.cpp.obj
+.PHONY : SourceCode/6th/IO/outfile.cpp.obj
+
+SourceCode/6th/IO/outfile.i: SourceCode/6th/IO/outfile.cpp.i
+
+.PHONY : SourceCode/6th/IO/outfile.i
+
+# target to preprocess a source file
+SourceCode/6th/IO/outfile.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/outfile.cpp.i
+.PHONY : SourceCode/6th/IO/outfile.cpp.i
+
+SourceCode/6th/IO/outfile.s: SourceCode/6th/IO/outfile.cpp.s
+
+.PHONY : SourceCode/6th/IO/outfile.s
+
+# target to generate assembly for a file
+SourceCode/6th/IO/outfile.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/outfile.cpp.s
+.PHONY : SourceCode/6th/IO/outfile.cpp.s
+
+SourceCode/6th/IO/sumafile.obj: SourceCode/6th/IO/sumafile.cpp.obj
+
+.PHONY : SourceCode/6th/IO/sumafile.obj
+
+# target to build an object file
+SourceCode/6th/IO/sumafile.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/sumafile.cpp.obj
+.PHONY : SourceCode/6th/IO/sumafile.cpp.obj
+
+SourceCode/6th/IO/sumafile.i: SourceCode/6th/IO/sumafile.cpp.i
+
+.PHONY : SourceCode/6th/IO/sumafile.i
+
+# target to preprocess a source file
+SourceCode/6th/IO/sumafile.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/sumafile.cpp.i
+.PHONY : SourceCode/6th/IO/sumafile.cpp.i
+
+SourceCode/6th/IO/sumafile.s: SourceCode/6th/IO/sumafile.cpp.s
+
+.PHONY : SourceCode/6th/IO/sumafile.s
+
+# target to generate assembly for a file
+SourceCode/6th/IO/sumafile.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/sumafile.cpp.s
+.PHONY : SourceCode/6th/IO/sumafile.cpp.s
+
+SourceCode/6th/InputAndOutput/cinfish.obj: SourceCode/6th/InputAndOutput/cinfish.cpp.obj
+
+.PHONY : SourceCode/6th/InputAndOutput/cinfish.obj
+
+# target to build an object file
+SourceCode/6th/InputAndOutput/cinfish.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cinfish.cpp.obj
+.PHONY : SourceCode/6th/InputAndOutput/cinfish.cpp.obj
+
+SourceCode/6th/InputAndOutput/cinfish.i: SourceCode/6th/InputAndOutput/cinfish.cpp.i
+
+.PHONY : SourceCode/6th/InputAndOutput/cinfish.i
+
+# target to preprocess a source file
+SourceCode/6th/InputAndOutput/cinfish.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cinfish.cpp.i
+.PHONY : SourceCode/6th/InputAndOutput/cinfish.cpp.i
+
+SourceCode/6th/InputAndOutput/cinfish.s: SourceCode/6th/InputAndOutput/cinfish.cpp.s
+
+.PHONY : SourceCode/6th/InputAndOutput/cinfish.s
+
+# target to generate assembly for a file
+SourceCode/6th/InputAndOutput/cinfish.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cinfish.cpp.s
+.PHONY : SourceCode/6th/InputAndOutput/cinfish.cpp.s
+
+SourceCode/6th/InputAndOutput/cingolf.obj: SourceCode/6th/InputAndOutput/cingolf.cpp.obj
+
+.PHONY : SourceCode/6th/InputAndOutput/cingolf.obj
+
+# target to build an object file
+SourceCode/6th/InputAndOutput/cingolf.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cingolf.cpp.obj
+.PHONY : SourceCode/6th/InputAndOutput/cingolf.cpp.obj
+
+SourceCode/6th/InputAndOutput/cingolf.i: SourceCode/6th/InputAndOutput/cingolf.cpp.i
+
+.PHONY : SourceCode/6th/InputAndOutput/cingolf.i
+
+# target to preprocess a source file
+SourceCode/6th/InputAndOutput/cingolf.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cingolf.cpp.i
+.PHONY : SourceCode/6th/InputAndOutput/cingolf.cpp.i
+
+SourceCode/6th/InputAndOutput/cingolf.s: SourceCode/6th/InputAndOutput/cingolf.cpp.s
+
+.PHONY : SourceCode/6th/InputAndOutput/cingolf.s
+
+# target to generate assembly for a file
+SourceCode/6th/InputAndOutput/cingolf.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cingolf.cpp.s
+.PHONY : SourceCode/6th/InputAndOutput/cingolf.cpp.s
+
+SourceCode/6th/LogicOperation/cctypes.obj: SourceCode/6th/LogicOperation/cctypes.cpp.obj
+
+.PHONY : SourceCode/6th/LogicOperation/cctypes.obj
+
+# target to build an object file
+SourceCode/6th/LogicOperation/cctypes.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/cctypes.cpp.obj
+.PHONY : SourceCode/6th/LogicOperation/cctypes.cpp.obj
+
+SourceCode/6th/LogicOperation/cctypes.i: SourceCode/6th/LogicOperation/cctypes.cpp.i
+
+.PHONY : SourceCode/6th/LogicOperation/cctypes.i
+
+# target to preprocess a source file
+SourceCode/6th/LogicOperation/cctypes.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/cctypes.cpp.i
+.PHONY : SourceCode/6th/LogicOperation/cctypes.cpp.i
+
+SourceCode/6th/LogicOperation/cctypes.s: SourceCode/6th/LogicOperation/cctypes.cpp.s
+
+.PHONY : SourceCode/6th/LogicOperation/cctypes.s
+
+# target to generate assembly for a file
+SourceCode/6th/LogicOperation/cctypes.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/cctypes.cpp.s
+.PHONY : SourceCode/6th/LogicOperation/cctypes.cpp.s
+
+SourceCode/6th/LogicOperation/condit.obj: SourceCode/6th/LogicOperation/condit.cpp.obj
+
+.PHONY : SourceCode/6th/LogicOperation/condit.obj
+
+# target to build an object file
+SourceCode/6th/LogicOperation/condit.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/condit.cpp.obj
+.PHONY : SourceCode/6th/LogicOperation/condit.cpp.obj
+
+SourceCode/6th/LogicOperation/condit.i: SourceCode/6th/LogicOperation/condit.cpp.i
+
+.PHONY : SourceCode/6th/LogicOperation/condit.i
+
+# target to preprocess a source file
+SourceCode/6th/LogicOperation/condit.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/condit.cpp.i
+.PHONY : SourceCode/6th/LogicOperation/condit.cpp.i
+
+SourceCode/6th/LogicOperation/condit.s: SourceCode/6th/LogicOperation/condit.cpp.s
+
+.PHONY : SourceCode/6th/LogicOperation/condit.s
+
+# target to generate assembly for a file
+SourceCode/6th/LogicOperation/condit.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/condit.cpp.s
+.PHONY : SourceCode/6th/LogicOperation/condit.cpp.s
+
+SourceCode/6th/ifandifelse/if.obj: SourceCode/6th/ifandifelse/if.cpp.obj
+
+.PHONY : SourceCode/6th/ifandifelse/if.obj
+
+# target to build an object file
+SourceCode/6th/ifandifelse/if.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/ifandifelse/if.cpp.obj
+.PHONY : SourceCode/6th/ifandifelse/if.cpp.obj
+
+SourceCode/6th/ifandifelse/if.i: SourceCode/6th/ifandifelse/if.cpp.i
+
+.PHONY : SourceCode/6th/ifandifelse/if.i
+
+# target to preprocess a source file
+SourceCode/6th/ifandifelse/if.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/ifandifelse/if.cpp.i
+.PHONY : SourceCode/6th/ifandifelse/if.cpp.i
+
+SourceCode/6th/ifandifelse/if.s: SourceCode/6th/ifandifelse/if.cpp.s
+
+.PHONY : SourceCode/6th/ifandifelse/if.s
+
+# target to generate assembly for a file
+SourceCode/6th/ifandifelse/if.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/ifandifelse/if.cpp.s
+.PHONY : SourceCode/6th/ifandifelse/if.cpp.s
+
+SourceCode/6th/switch/enum.obj: SourceCode/6th/switch/enum.cpp.obj
+
+.PHONY : SourceCode/6th/switch/enum.obj
+
+# target to build an object file
+SourceCode/6th/switch/enum.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/enum.cpp.obj
+.PHONY : SourceCode/6th/switch/enum.cpp.obj
+
+SourceCode/6th/switch/enum.i: SourceCode/6th/switch/enum.cpp.i
+
+.PHONY : SourceCode/6th/switch/enum.i
+
+# target to preprocess a source file
+SourceCode/6th/switch/enum.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/enum.cpp.i
+.PHONY : SourceCode/6th/switch/enum.cpp.i
+
+SourceCode/6th/switch/enum.s: SourceCode/6th/switch/enum.cpp.s
+
+.PHONY : SourceCode/6th/switch/enum.s
+
+# target to generate assembly for a file
+SourceCode/6th/switch/enum.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/enum.cpp.s
+.PHONY : SourceCode/6th/switch/enum.cpp.s
+
+SourceCode/6th/switch/switch.obj: SourceCode/6th/switch/switch.cpp.obj
+
+.PHONY : SourceCode/6th/switch/switch.obj
+
+# target to build an object file
+SourceCode/6th/switch/switch.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/switch.cpp.obj
+.PHONY : SourceCode/6th/switch/switch.cpp.obj
+
+SourceCode/6th/switch/switch.i: SourceCode/6th/switch/switch.cpp.i
+
+.PHONY : SourceCode/6th/switch/switch.i
+
+# target to preprocess a source file
+SourceCode/6th/switch/switch.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/switch.cpp.i
+.PHONY : SourceCode/6th/switch/switch.cpp.i
+
+SourceCode/6th/switch/switch.s: SourceCode/6th/switch/switch.cpp.s
+
+.PHONY : SourceCode/6th/switch/switch.s
+
+# target to generate assembly for a file
+SourceCode/6th/switch/switch.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/switch.cpp.s
+.PHONY : SourceCode/6th/switch/switch.cpp.s
+
+SourceCode/7th/FunctionAndArray/arrfun1.obj: SourceCode/7th/FunctionAndArray/arrfun1.cpp.obj
+
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun1.obj
+
+# target to build an object file
+SourceCode/7th/FunctionAndArray/arrfun1.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun1.cpp.obj
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun1.cpp.obj
+
+SourceCode/7th/FunctionAndArray/arrfun1.i: SourceCode/7th/FunctionAndArray/arrfun1.cpp.i
+
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun1.i
+
+# target to preprocess a source file
+SourceCode/7th/FunctionAndArray/arrfun1.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun1.cpp.i
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun1.cpp.i
+
+SourceCode/7th/FunctionAndArray/arrfun1.s: SourceCode/7th/FunctionAndArray/arrfun1.cpp.s
+
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun1.s
+
+# target to generate assembly for a file
+SourceCode/7th/FunctionAndArray/arrfun1.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun1.cpp.s
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun1.cpp.s
+
+SourceCode/7th/FunctionAndArray/arrfun2.obj: SourceCode/7th/FunctionAndArray/arrfun2.cpp.obj
+
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun2.obj
+
+# target to build an object file
+SourceCode/7th/FunctionAndArray/arrfun2.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun2.cpp.obj
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun2.cpp.obj
+
+SourceCode/7th/FunctionAndArray/arrfun2.i: SourceCode/7th/FunctionAndArray/arrfun2.cpp.i
+
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun2.i
+
+# target to preprocess a source file
+SourceCode/7th/FunctionAndArray/arrfun2.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun2.cpp.i
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun2.cpp.i
+
+SourceCode/7th/FunctionAndArray/arrfun2.s: SourceCode/7th/FunctionAndArray/arrfun2.cpp.s
+
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun2.s
+
+# target to generate assembly for a file
+SourceCode/7th/FunctionAndArray/arrfun2.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun2.cpp.s
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun2.cpp.s
+
+SourceCode/7th/FunctionAndArray/arrfun3.obj: SourceCode/7th/FunctionAndArray/arrfun3.cpp.obj
+
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun3.obj
+
+# target to build an object file
+SourceCode/7th/FunctionAndArray/arrfun3.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun3.cpp.obj
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun3.cpp.obj
+
+SourceCode/7th/FunctionAndArray/arrfun3.i: SourceCode/7th/FunctionAndArray/arrfun3.cpp.i
+
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun3.i
+
+# target to preprocess a source file
+SourceCode/7th/FunctionAndArray/arrfun3.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun3.cpp.i
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun3.cpp.i
+
+SourceCode/7th/FunctionAndArray/arrfun3.s: SourceCode/7th/FunctionAndArray/arrfun3.cpp.s
+
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun3.s
+
+# target to generate assembly for a file
+SourceCode/7th/FunctionAndArray/arrfun3.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun3.cpp.s
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun3.cpp.s
+
+SourceCode/7th/FunctionAndArray/arrfun4.obj: SourceCode/7th/FunctionAndArray/arrfun4.cpp.obj
+
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun4.obj
+
+# target to build an object file
+SourceCode/7th/FunctionAndArray/arrfun4.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun4.cpp.obj
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun4.cpp.obj
+
+SourceCode/7th/FunctionAndArray/arrfun4.i: SourceCode/7th/FunctionAndArray/arrfun4.cpp.i
+
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun4.i
+
+# target to preprocess a source file
+SourceCode/7th/FunctionAndArray/arrfun4.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun4.cpp.i
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun4.cpp.i
+
+SourceCode/7th/FunctionAndArray/arrfun4.s: SourceCode/7th/FunctionAndArray/arrfun4.cpp.s
+
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun4.s
+
+# target to generate assembly for a file
+SourceCode/7th/FunctionAndArray/arrfun4.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun4.cpp.s
+.PHONY : SourceCode/7th/FunctionAndArray/arrfun4.cpp.s
+
+SourceCode/7th/lotto/lotto.obj: SourceCode/7th/lotto/lotto.cpp.obj
+
+.PHONY : SourceCode/7th/lotto/lotto.obj
+
+# target to build an object file
+SourceCode/7th/lotto/lotto.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/lotto/lotto.cpp.obj
+.PHONY : SourceCode/7th/lotto/lotto.cpp.obj
+
+SourceCode/7th/lotto/lotto.i: SourceCode/7th/lotto/lotto.cpp.i
+
+.PHONY : SourceCode/7th/lotto/lotto.i
+
+# target to preprocess a source file
+SourceCode/7th/lotto/lotto.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/lotto/lotto.cpp.i
+.PHONY : SourceCode/7th/lotto/lotto.cpp.i
+
+SourceCode/7th/lotto/lotto.s: SourceCode/7th/lotto/lotto.cpp.s
+
+.PHONY : SourceCode/7th/lotto/lotto.s
+
+# target to generate assembly for a file
+SourceCode/7th/lotto/lotto.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/lotto/lotto.cpp.s
+.PHONY : SourceCode/7th/lotto/lotto.cpp.s
+
+SourceCode/7th/twoarg/twoarg.obj: SourceCode/7th/twoarg/twoarg.cpp.obj
+
+.PHONY : SourceCode/7th/twoarg/twoarg.obj
+
+# target to build an object file
+SourceCode/7th/twoarg/twoarg.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/twoarg/twoarg.cpp.obj
+.PHONY : SourceCode/7th/twoarg/twoarg.cpp.obj
+
+SourceCode/7th/twoarg/twoarg.i: SourceCode/7th/twoarg/twoarg.cpp.i
+
+.PHONY : SourceCode/7th/twoarg/twoarg.i
+
+# target to preprocess a source file
+SourceCode/7th/twoarg/twoarg.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/twoarg/twoarg.cpp.i
+.PHONY : SourceCode/7th/twoarg/twoarg.cpp.i
+
+SourceCode/7th/twoarg/twoarg.s: SourceCode/7th/twoarg/twoarg.cpp.s
+
+.PHONY : SourceCode/7th/twoarg/twoarg.s
+
+# target to generate assembly for a file
+SourceCode/7th/twoarg/twoarg.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/7th/twoarg/twoarg.cpp.s
+.PHONY : SourceCode/7th/twoarg/twoarg.cpp.s
+
+SourceCode/9th/practice1/file1.obj: SourceCode/9th/practice1/file1.cpp.obj
+
+.PHONY : SourceCode/9th/practice1/file1.obj
+
+# target to build an object file
+SourceCode/9th/practice1/file1.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file1.cpp.obj
+.PHONY : SourceCode/9th/practice1/file1.cpp.obj
+
+SourceCode/9th/practice1/file1.i: SourceCode/9th/practice1/file1.cpp.i
+
+.PHONY : SourceCode/9th/practice1/file1.i
+
+# target to preprocess a source file
+SourceCode/9th/practice1/file1.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file1.cpp.i
+.PHONY : SourceCode/9th/practice1/file1.cpp.i
+
+SourceCode/9th/practice1/file1.s: SourceCode/9th/practice1/file1.cpp.s
+
+.PHONY : SourceCode/9th/practice1/file1.s
+
+# target to generate assembly for a file
+SourceCode/9th/practice1/file1.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file1.cpp.s
+.PHONY : SourceCode/9th/practice1/file1.cpp.s
+
+SourceCode/9th/practice1/file2.obj: SourceCode/9th/practice1/file2.cpp.obj
+
+.PHONY : SourceCode/9th/practice1/file2.obj
+
+# target to build an object file
+SourceCode/9th/practice1/file2.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file2.cpp.obj
+.PHONY : SourceCode/9th/practice1/file2.cpp.obj
+
+SourceCode/9th/practice1/file2.i: SourceCode/9th/practice1/file2.cpp.i
+
+.PHONY : SourceCode/9th/practice1/file2.i
+
+# target to preprocess a source file
+SourceCode/9th/practice1/file2.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file2.cpp.i
+.PHONY : SourceCode/9th/practice1/file2.cpp.i
+
+SourceCode/9th/practice1/file2.s: SourceCode/9th/practice1/file2.cpp.s
+
+.PHONY : SourceCode/9th/practice1/file2.s
+
+# target to generate assembly for a file
+SourceCode/9th/practice1/file2.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file2.cpp.s
+.PHONY : SourceCode/9th/practice1/file2.cpp.s
+
+TestCode/test.obj: TestCode/test.cpp.obj
+
+.PHONY : TestCode/test.obj
+
+# target to build an object file
+TestCode/test.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/TestCode/test.cpp.obj
+.PHONY : TestCode/test.cpp.obj
+
+TestCode/test.i: TestCode/test.cpp.i
+
+.PHONY : TestCode/test.i
+
+# target to preprocess a source file
+TestCode/test.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/TestCode/test.cpp.i
+.PHONY : TestCode/test.cpp.i
+
+TestCode/test.s: TestCode/test.cpp.s
+
+.PHONY : TestCode/test.s
+
+# target to generate assembly for a file
+TestCode/test.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/TestCode/test.cpp.s
+.PHONY : TestCode/test.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -617,57 +2075,219 @@ help:
 	@echo ... CPrimeplus
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... 10th/practice1/Stack.obj
-	@echo ... 10th/practice1/Stack.i
-	@echo ... 10th/practice1/Stack.s
-	@echo ... 10th/practice1/stacker.obj
-	@echo ... 10th/practice1/stacker.i
-	@echo ... 10th/practice1/stacker.s
-	@echo ... 10th/stock/stock20.obj
-	@echo ... 10th/stock/stock20.i
-	@echo ... 10th/stock/stock20.s
-	@echo ... 10th/stock/usestock2.obj
-	@echo ... 10th/stock/usestock2.i
-	@echo ... 10th/stock/usestock2.s
-	@echo ... 12th/String/sayings1.obj
-	@echo ... 12th/String/sayings1.i
-	@echo ... 12th/String/sayings1.s
-	@echo ... 12th/String/sayings2.obj
-	@echo ... 12th/String/sayings2.i
-	@echo ... 12th/String/sayings2.s
-	@echo ... 12th/String/string1.obj
-	@echo ... 12th/String/string1.i
-	@echo ... 12th/String/string1.s
-	@echo ... 12th/placenew/palcenew1.obj
-	@echo ... 12th/placenew/palcenew1.i
-	@echo ... 12th/placenew/palcenew1.s
-	@echo ... 12th/queue/bank.obj
-	@echo ... 12th/queue/bank.i
-	@echo ... 12th/queue/bank.s
-	@echo ... 12th/queue/queue.obj
-	@echo ... 12th/queue/queue.i
-	@echo ... 12th/queue/queue.s
-	@echo ... 13th/DMA/dma.obj
-	@echo ... 13th/DMA/dma.i
-	@echo ... 13th/DMA/dma.s
-	@echo ... 13th/brass/brass.obj
-	@echo ... 13th/brass/brass.i
-	@echo ... 13th/brass/brass.s
-	@echo ... 13th/tabletennis/tablenn1.obj
-	@echo ... 13th/tabletennis/tablenn1.i
-	@echo ... 13th/tabletennis/tablenn1.s
-	@echo ... 14th/student/student.obj
-	@echo ... 14th/student/student.i
-	@echo ... 14th/student/student.s
-	@echo ... 14th/student/use_stuc.obj
-	@echo ... 14th/student/use_stuc.i
-	@echo ... 14th/student/use_stuc.s
-	@echo ... 9th/practice1/file1.obj
-	@echo ... 9th/practice1/file1.i
-	@echo ... 9th/practice1/file1.s
-	@echo ... 9th/practice1/file2.obj
-	@echo ... 9th/practice1/file2.i
-	@echo ... 9th/practice1/file2.s
+	@echo ... HouJieVideoCode/complex_test.obj
+	@echo ... HouJieVideoCode/complex_test.i
+	@echo ... HouJieVideoCode/complex_test.s
+	@echo ... Keywords/Keywords_const.obj
+	@echo ... Keywords/Keywords_const.i
+	@echo ... Keywords/Keywords_const.s
+	@echo ... Keywords/Keywords_const_virtual.obj
+	@echo ... Keywords/Keywords_const_virtual.i
+	@echo ... Keywords/Keywords_const_virtual.s
+	@echo ... Keywords/Keywords_inline.obj
+	@echo ... Keywords/Keywords_inline.i
+	@echo ... Keywords/Keywords_inline.s
+	@echo ... Keywords/Keywords_static.obj
+	@echo ... Keywords/Keywords_static.i
+	@echo ... Keywords/Keywords_static.s
+	@echo ... Keywords/Keywords_this.obj
+	@echo ... Keywords/Keywords_this.i
+	@echo ... Keywords/Keywords_this.s
+	@echo ... SourceCode/10th/practice1/Stack.obj
+	@echo ... SourceCode/10th/practice1/Stack.i
+	@echo ... SourceCode/10th/practice1/Stack.s
+	@echo ... SourceCode/10th/practice1/stacker.obj
+	@echo ... SourceCode/10th/practice1/stacker.i
+	@echo ... SourceCode/10th/practice1/stacker.s
+	@echo ... SourceCode/10th/stock/stock20.obj
+	@echo ... SourceCode/10th/stock/stock20.i
+	@echo ... SourceCode/10th/stock/stock20.s
+	@echo ... SourceCode/10th/stock/usestock2.obj
+	@echo ... SourceCode/10th/stock/usestock2.i
+	@echo ... SourceCode/10th/stock/usestock2.s
+	@echo ... SourceCode/12th/String/sayings1.obj
+	@echo ... SourceCode/12th/String/sayings1.i
+	@echo ... SourceCode/12th/String/sayings1.s
+	@echo ... SourceCode/12th/String/sayings2.obj
+	@echo ... SourceCode/12th/String/sayings2.i
+	@echo ... SourceCode/12th/String/sayings2.s
+	@echo ... SourceCode/12th/String/string1.obj
+	@echo ... SourceCode/12th/String/string1.i
+	@echo ... SourceCode/12th/String/string1.s
+	@echo ... SourceCode/12th/placenew/palcenew1.obj
+	@echo ... SourceCode/12th/placenew/palcenew1.i
+	@echo ... SourceCode/12th/placenew/palcenew1.s
+	@echo ... SourceCode/12th/queue/bank.obj
+	@echo ... SourceCode/12th/queue/bank.i
+	@echo ... SourceCode/12th/queue/bank.s
+	@echo ... SourceCode/12th/queue/queue.obj
+	@echo ... SourceCode/12th/queue/queue.i
+	@echo ... SourceCode/12th/queue/queue.s
+	@echo ... SourceCode/13th/DMA/dma.obj
+	@echo ... SourceCode/13th/DMA/dma.i
+	@echo ... SourceCode/13th/DMA/dma.s
+	@echo ... SourceCode/13th/brass/brass.obj
+	@echo ... SourceCode/13th/brass/brass.i
+	@echo ... SourceCode/13th/brass/brass.s
+	@echo ... SourceCode/13th/tabletennis/tablenn1.obj
+	@echo ... SourceCode/13th/tabletennis/tablenn1.i
+	@echo ... SourceCode/13th/tabletennis/tablenn1.s
+	@echo ... SourceCode/14th/student/student.obj
+	@echo ... SourceCode/14th/student/student.i
+	@echo ... SourceCode/14th/student/student.s
+	@echo ... SourceCode/14th/student/use_stuc.obj
+	@echo ... SourceCode/14th/student/use_stuc.i
+	@echo ... SourceCode/14th/student/use_stuc.s
+	@echo ... SourceCode/14th/student_1/student_1.obj
+	@echo ... SourceCode/14th/student_1/student_1.i
+	@echo ... SourceCode/14th/student_1/student_1.s
+	@echo ... SourceCode/14th/student_1/use_stui.obj
+	@echo ... SourceCode/14th/student_1/use_stui.i
+	@echo ... SourceCode/14th/student_1/use_stui.s
+	@echo ... SourceCode/14th/worker/Worker0.obj
+	@echo ... SourceCode/14th/worker/Worker0.i
+	@echo ... SourceCode/14th/worker/Worker0.s
+	@echo ... SourceCode/14th/worker/worktest.obj
+	@echo ... SourceCode/14th/worker/worktest.i
+	@echo ... SourceCode/14th/worker/worktest.s
+	@echo ... SourceCode/2th/getinfo/getinfo.obj
+	@echo ... SourceCode/2th/getinfo/getinfo.i
+	@echo ... SourceCode/2th/getinfo/getinfo.s
+	@echo ... SourceCode/3th/floatnum/floatnum.obj
+	@echo ... SourceCode/3th/floatnum/floatnum.i
+	@echo ... SourceCode/3th/floatnum/floatnum.s
+	@echo ... SourceCode/3th/limits/limits.obj
+	@echo ... SourceCode/3th/limits/limits.i
+	@echo ... SourceCode/3th/limits/limits.s
+	@echo ... SourceCode/3th/morechar/moretype.obj
+	@echo ... SourceCode/3th/morechar/moretype.i
+	@echo ... SourceCode/3th/morechar/moretype.s
+	@echo ... SourceCode/3th/typycast/typecast.obj
+	@echo ... SourceCode/3th/typycast/typecast.i
+	@echo ... SourceCode/3th/typycast/typecast.s
+	@echo ... SourceCode/4th/instr/instr2.obj
+	@echo ... SourceCode/4th/instr/instr2.i
+	@echo ... SourceCode/4th/instr/instr2.s
+	@echo ... SourceCode/4th/instr/instr3.obj
+	@echo ... SourceCode/4th/instr/instr3.i
+	@echo ... SourceCode/4th/instr/instr3.s
+	@echo ... SourceCode/4th/pointer/addpntrs.obj
+	@echo ... SourceCode/4th/pointer/addpntrs.i
+	@echo ... SourceCode/4th/pointer/addpntrs.s
+	@echo ... SourceCode/4th/pointer/address.obj
+	@echo ... SourceCode/4th/pointer/address.i
+	@echo ... SourceCode/4th/pointer/address.s
+	@echo ... SourceCode/4th/pointer/arraynew.obj
+	@echo ... SourceCode/4th/pointer/arraynew.i
+	@echo ... SourceCode/4th/pointer/arraynew.s
+	@echo ... SourceCode/4th/pointer/delete.obj
+	@echo ... SourceCode/4th/pointer/delete.i
+	@echo ... SourceCode/4th/pointer/delete.s
+	@echo ... SourceCode/4th/pointer/newstrct.obj
+	@echo ... SourceCode/4th/pointer/newstrct.i
+	@echo ... SourceCode/4th/pointer/newstrct.s
+	@echo ... SourceCode/4th/pointer/pointer.obj
+	@echo ... SourceCode/4th/pointer/pointer.i
+	@echo ... SourceCode/4th/pointer/pointer.s
+	@echo ... SourceCode/4th/pointer/ptrstr.obj
+	@echo ... SourceCode/4th/pointer/ptrstr.i
+	@echo ... SourceCode/4th/pointer/ptrstr.s
+	@echo ... SourceCode/4th/pointer/use_new.obj
+	@echo ... SourceCode/4th/pointer/use_new.i
+	@echo ... SourceCode/4th/pointer/use_new.s
+	@echo ... SourceCode/4th/string/strtype.obj
+	@echo ... SourceCode/4th/string/strtype.i
+	@echo ... SourceCode/4th/string/strtype.s
+	@echo ... SourceCode/4th/string/strtype3.obj
+	@echo ... SourceCode/4th/string/strtype3.i
+	@echo ... SourceCode/4th/string/strtype3.s
+	@echo ... SourceCode/4th/struct/structur.obj
+	@echo ... SourceCode/4th/struct/structur.i
+	@echo ... SourceCode/4th/struct/structur.s
+	@echo ... SourceCode/4th/vector&array/choices.obj
+	@echo ... SourceCode/4th/vector&array/choices.i
+	@echo ... SourceCode/4th/vector&array/choices.s
+	@echo ... SourceCode/5th/forLoop/compstr1.obj
+	@echo ... SourceCode/5th/forLoop/compstr1.i
+	@echo ... SourceCode/5th/forLoop/compstr1.s
+	@echo ... SourceCode/5th/forLoop/compstr2.obj
+	@echo ... SourceCode/5th/forLoop/compstr2.i
+	@echo ... SourceCode/5th/forLoop/compstr2.s
+	@echo ... SourceCode/5th/forLoop/forstr1.obj
+	@echo ... SourceCode/5th/forLoop/forstr1.i
+	@echo ... SourceCode/5th/forLoop/forstr1.s
+	@echo ... SourceCode/5th/loopAndTextinput/textin1.obj
+	@echo ... SourceCode/5th/loopAndTextinput/textin1.i
+	@echo ... SourceCode/5th/loopAndTextinput/textin1.s
+	@echo ... SourceCode/5th/loopAndTextinput/textin2.obj
+	@echo ... SourceCode/5th/loopAndTextinput/textin2.i
+	@echo ... SourceCode/5th/loopAndTextinput/textin2.s
+	@echo ... SourceCode/5th/loopAndTextinput/textin3.obj
+	@echo ... SourceCode/5th/loopAndTextinput/textin3.i
+	@echo ... SourceCode/5th/loopAndTextinput/textin3.s
+	@echo ... SourceCode/5th/loopAndTextinput/textin4.obj
+	@echo ... SourceCode/5th/loopAndTextinput/textin4.i
+	@echo ... SourceCode/5th/loopAndTextinput/textin4.s
+	@echo ... SourceCode/5th/whileLoop/waiting.obj
+	@echo ... SourceCode/5th/whileLoop/waiting.i
+	@echo ... SourceCode/5th/whileLoop/waiting.s
+	@echo ... SourceCode/5th/whileLoop/while.obj
+	@echo ... SourceCode/5th/whileLoop/while.i
+	@echo ... SourceCode/5th/whileLoop/while.s
+	@echo ... SourceCode/6th/IO/outfile.obj
+	@echo ... SourceCode/6th/IO/outfile.i
+	@echo ... SourceCode/6th/IO/outfile.s
+	@echo ... SourceCode/6th/IO/sumafile.obj
+	@echo ... SourceCode/6th/IO/sumafile.i
+	@echo ... SourceCode/6th/IO/sumafile.s
+	@echo ... SourceCode/6th/InputAndOutput/cinfish.obj
+	@echo ... SourceCode/6th/InputAndOutput/cinfish.i
+	@echo ... SourceCode/6th/InputAndOutput/cinfish.s
+	@echo ... SourceCode/6th/InputAndOutput/cingolf.obj
+	@echo ... SourceCode/6th/InputAndOutput/cingolf.i
+	@echo ... SourceCode/6th/InputAndOutput/cingolf.s
+	@echo ... SourceCode/6th/LogicOperation/cctypes.obj
+	@echo ... SourceCode/6th/LogicOperation/cctypes.i
+	@echo ... SourceCode/6th/LogicOperation/cctypes.s
+	@echo ... SourceCode/6th/LogicOperation/condit.obj
+	@echo ... SourceCode/6th/LogicOperation/condit.i
+	@echo ... SourceCode/6th/LogicOperation/condit.s
+	@echo ... SourceCode/6th/ifandifelse/if.obj
+	@echo ... SourceCode/6th/ifandifelse/if.i
+	@echo ... SourceCode/6th/ifandifelse/if.s
+	@echo ... SourceCode/6th/switch/enum.obj
+	@echo ... SourceCode/6th/switch/enum.i
+	@echo ... SourceCode/6th/switch/enum.s
+	@echo ... SourceCode/6th/switch/switch.obj
+	@echo ... SourceCode/6th/switch/switch.i
+	@echo ... SourceCode/6th/switch/switch.s
+	@echo ... SourceCode/7th/FunctionAndArray/arrfun1.obj
+	@echo ... SourceCode/7th/FunctionAndArray/arrfun1.i
+	@echo ... SourceCode/7th/FunctionAndArray/arrfun1.s
+	@echo ... SourceCode/7th/FunctionAndArray/arrfun2.obj
+	@echo ... SourceCode/7th/FunctionAndArray/arrfun2.i
+	@echo ... SourceCode/7th/FunctionAndArray/arrfun2.s
+	@echo ... SourceCode/7th/FunctionAndArray/arrfun3.obj
+	@echo ... SourceCode/7th/FunctionAndArray/arrfun3.i
+	@echo ... SourceCode/7th/FunctionAndArray/arrfun3.s
+	@echo ... SourceCode/7th/FunctionAndArray/arrfun4.obj
+	@echo ... SourceCode/7th/FunctionAndArray/arrfun4.i
+	@echo ... SourceCode/7th/FunctionAndArray/arrfun4.s
+	@echo ... SourceCode/7th/lotto/lotto.obj
+	@echo ... SourceCode/7th/lotto/lotto.i
+	@echo ... SourceCode/7th/lotto/lotto.s
+	@echo ... SourceCode/7th/twoarg/twoarg.obj
+	@echo ... SourceCode/7th/twoarg/twoarg.i
+	@echo ... SourceCode/7th/twoarg/twoarg.s
+	@echo ... SourceCode/9th/practice1/file1.obj
+	@echo ... SourceCode/9th/practice1/file1.i
+	@echo ... SourceCode/9th/practice1/file1.s
+	@echo ... SourceCode/9th/practice1/file2.obj
+	@echo ... SourceCode/9th/practice1/file2.i
+	@echo ... SourceCode/9th/practice1/file2.s
+	@echo ... TestCode/test.obj
+	@echo ... TestCode/test.i
+	@echo ... TestCode/test.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

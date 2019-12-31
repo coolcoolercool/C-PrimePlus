@@ -69,274 +69,1084 @@ CMakeFiles/CPrimeplus.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/main.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\main.cpp -o CMakeFiles\CPrimeplus.dir\main.cpp.s
 
-CMakeFiles/CPrimeplus.dir/14th/student/student.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/14th/student/student.cpp.obj: ../14th/student/student.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPrimeplus.dir/14th/student/student.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\14th\student\student.cpp.obj -c F:\C++Code\CPrimeplus\14th\student\student.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/student.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/student.cpp.obj: ../SourceCode/14th/student/student.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/student.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\14th\student\student.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\14th\student\student.cpp
 
-CMakeFiles/CPrimeplus.dir/14th/student/student.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/14th/student/student.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\14th\student\student.cpp > CMakeFiles\CPrimeplus.dir\14th\student\student.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/student.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/student.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\14th\student\student.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\14th\student\student.cpp.i
 
-CMakeFiles/CPrimeplus.dir/14th/student/student.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/14th/student/student.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\14th\student\student.cpp -o CMakeFiles\CPrimeplus.dir\14th\student\student.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/student.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/student.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\14th\student\student.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\14th\student\student.cpp.s
 
-CMakeFiles/CPrimeplus.dir/14th/student/use_stuc.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/14th/student/use_stuc.cpp.obj: ../14th/student/use_stuc.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CPrimeplus.dir/14th/student/use_stuc.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\14th\student\use_stuc.cpp.obj -c F:\C++Code\CPrimeplus\14th\student\use_stuc.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/use_stuc.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/use_stuc.cpp.obj: ../SourceCode/14th/student/use_stuc.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/use_stuc.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\14th\student\use_stuc.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\14th\student\use_stuc.cpp
 
-CMakeFiles/CPrimeplus.dir/14th/student/use_stuc.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/14th/student/use_stuc.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\14th\student\use_stuc.cpp > CMakeFiles\CPrimeplus.dir\14th\student\use_stuc.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/use_stuc.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/use_stuc.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\14th\student\use_stuc.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\14th\student\use_stuc.cpp.i
 
-CMakeFiles/CPrimeplus.dir/14th/student/use_stuc.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/14th/student/use_stuc.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\14th\student\use_stuc.cpp -o CMakeFiles\CPrimeplus.dir\14th\student\use_stuc.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/use_stuc.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/use_stuc.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\14th\student\use_stuc.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\14th\student\use_stuc.cpp.s
 
-CMakeFiles/CPrimeplus.dir/13th/brass/brass.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/13th/brass/brass.cpp.obj: ../13th/brass/brass.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CPrimeplus.dir/13th/brass/brass.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\13th\brass\brass.cpp.obj -c F:\C++Code\CPrimeplus\13th\brass\brass.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/13th/brass/brass.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/13th/brass/brass.cpp.obj: ../SourceCode/13th/brass/brass.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/13th/brass/brass.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\13th\brass\brass.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\13th\brass\brass.cpp
 
-CMakeFiles/CPrimeplus.dir/13th/brass/brass.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/13th/brass/brass.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\13th\brass\brass.cpp > CMakeFiles\CPrimeplus.dir\13th\brass\brass.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/13th/brass/brass.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/13th/brass/brass.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\13th\brass\brass.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\13th\brass\brass.cpp.i
 
-CMakeFiles/CPrimeplus.dir/13th/brass/brass.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/13th/brass/brass.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\13th\brass\brass.cpp -o CMakeFiles\CPrimeplus.dir\13th\brass\brass.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/13th/brass/brass.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/13th/brass/brass.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\13th\brass\brass.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\13th\brass\brass.cpp.s
 
-CMakeFiles/CPrimeplus.dir/13th/DMA/dma.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/13th/DMA/dma.cpp.obj: ../13th/DMA/dma.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CPrimeplus.dir/13th/DMA/dma.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\13th\DMA\dma.cpp.obj -c F:\C++Code\CPrimeplus\13th\DMA\dma.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/13th/DMA/dma.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/13th/DMA/dma.cpp.obj: ../SourceCode/13th/DMA/dma.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/13th/DMA/dma.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\13th\DMA\dma.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\13th\DMA\dma.cpp
 
-CMakeFiles/CPrimeplus.dir/13th/DMA/dma.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/13th/DMA/dma.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\13th\DMA\dma.cpp > CMakeFiles\CPrimeplus.dir\13th\DMA\dma.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/13th/DMA/dma.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/13th/DMA/dma.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\13th\DMA\dma.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\13th\DMA\dma.cpp.i
 
-CMakeFiles/CPrimeplus.dir/13th/DMA/dma.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/13th/DMA/dma.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\13th\DMA\dma.cpp -o CMakeFiles\CPrimeplus.dir\13th\DMA\dma.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/13th/DMA/dma.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/13th/DMA/dma.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\13th\DMA\dma.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\13th\DMA\dma.cpp.s
 
-CMakeFiles/CPrimeplus.dir/13th/tabletennis/tablenn1.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/13th/tabletennis/tablenn1.cpp.obj: ../13th/tabletennis/tablenn1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CPrimeplus.dir/13th/tabletennis/tablenn1.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\13th\tabletennis\tablenn1.cpp.obj -c F:\C++Code\CPrimeplus\13th\tabletennis\tablenn1.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/13th/tabletennis/tablenn1.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/13th/tabletennis/tablenn1.cpp.obj: ../SourceCode/13th/tabletennis/tablenn1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/13th/tabletennis/tablenn1.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\13th\tabletennis\tablenn1.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\13th\tabletennis\tablenn1.cpp
 
-CMakeFiles/CPrimeplus.dir/13th/tabletennis/tablenn1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/13th/tabletennis/tablenn1.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\13th\tabletennis\tablenn1.cpp > CMakeFiles\CPrimeplus.dir\13th\tabletennis\tablenn1.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/13th/tabletennis/tablenn1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/13th/tabletennis/tablenn1.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\13th\tabletennis\tablenn1.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\13th\tabletennis\tablenn1.cpp.i
 
-CMakeFiles/CPrimeplus.dir/13th/tabletennis/tablenn1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/13th/tabletennis/tablenn1.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\13th\tabletennis\tablenn1.cpp -o CMakeFiles\CPrimeplus.dir\13th\tabletennis\tablenn1.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/13th/tabletennis/tablenn1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/13th/tabletennis/tablenn1.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\13th\tabletennis\tablenn1.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\13th\tabletennis\tablenn1.cpp.s
 
-CMakeFiles/CPrimeplus.dir/12th/String/sayings1.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/12th/String/sayings1.cpp.obj: ../12th/String/sayings1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CPrimeplus.dir/12th/String/sayings1.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\12th\String\sayings1.cpp.obj -c F:\C++Code\CPrimeplus\12th\String\sayings1.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings1.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings1.cpp.obj: ../SourceCode/12th/String/sayings1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings1.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\12th\String\sayings1.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\12th\String\sayings1.cpp
 
-CMakeFiles/CPrimeplus.dir/12th/String/sayings1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/12th/String/sayings1.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\12th\String\sayings1.cpp > CMakeFiles\CPrimeplus.dir\12th\String\sayings1.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings1.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\12th\String\sayings1.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\12th\String\sayings1.cpp.i
 
-CMakeFiles/CPrimeplus.dir/12th/String/sayings1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/12th/String/sayings1.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\12th\String\sayings1.cpp -o CMakeFiles\CPrimeplus.dir\12th\String\sayings1.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings1.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\12th\String\sayings1.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\12th\String\sayings1.cpp.s
 
-CMakeFiles/CPrimeplus.dir/12th/String/sayings2.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/12th/String/sayings2.cpp.obj: ../12th/String/sayings2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CPrimeplus.dir/12th/String/sayings2.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\12th\String\sayings2.cpp.obj -c F:\C++Code\CPrimeplus\12th\String\sayings2.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings2.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings2.cpp.obj: ../SourceCode/12th/String/sayings2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings2.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\12th\String\sayings2.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\12th\String\sayings2.cpp
 
-CMakeFiles/CPrimeplus.dir/12th/String/sayings2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/12th/String/sayings2.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\12th\String\sayings2.cpp > CMakeFiles\CPrimeplus.dir\12th\String\sayings2.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings2.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\12th\String\sayings2.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\12th\String\sayings2.cpp.i
 
-CMakeFiles/CPrimeplus.dir/12th/String/sayings2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/12th/String/sayings2.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\12th\String\sayings2.cpp -o CMakeFiles\CPrimeplus.dir\12th\String\sayings2.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings2.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\12th\String\sayings2.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\12th\String\sayings2.cpp.s
 
-CMakeFiles/CPrimeplus.dir/12th/String/string1.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/12th/String/string1.cpp.obj: ../12th/String/string1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/CPrimeplus.dir/12th/String/string1.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\12th\String\string1.cpp.obj -c F:\C++Code\CPrimeplus\12th\String\string1.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/string1.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/string1.cpp.obj: ../SourceCode/12th/String/string1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/string1.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\12th\String\string1.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\12th\String\string1.cpp
 
-CMakeFiles/CPrimeplus.dir/12th/String/string1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/12th/String/string1.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\12th\String\string1.cpp > CMakeFiles\CPrimeplus.dir\12th\String\string1.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/string1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/string1.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\12th\String\string1.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\12th\String\string1.cpp.i
 
-CMakeFiles/CPrimeplus.dir/12th/String/string1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/12th/String/string1.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\12th\String\string1.cpp -o CMakeFiles\CPrimeplus.dir\12th\String\string1.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/string1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/string1.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\12th\String\string1.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\12th\String\string1.cpp.s
 
-CMakeFiles/CPrimeplus.dir/12th/queue/bank.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/12th/queue/bank.cpp.obj: ../12th/queue/bank.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/CPrimeplus.dir/12th/queue/bank.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\12th\queue\bank.cpp.obj -c F:\C++Code\CPrimeplus\12th\queue\bank.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/bank.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/bank.cpp.obj: ../SourceCode/12th/queue/bank.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/bank.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\12th\queue\bank.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\12th\queue\bank.cpp
 
-CMakeFiles/CPrimeplus.dir/12th/queue/bank.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/12th/queue/bank.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\12th\queue\bank.cpp > CMakeFiles\CPrimeplus.dir\12th\queue\bank.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/bank.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/bank.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\12th\queue\bank.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\12th\queue\bank.cpp.i
 
-CMakeFiles/CPrimeplus.dir/12th/queue/bank.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/12th/queue/bank.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\12th\queue\bank.cpp -o CMakeFiles\CPrimeplus.dir\12th\queue\bank.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/bank.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/bank.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\12th\queue\bank.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\12th\queue\bank.cpp.s
 
-CMakeFiles/CPrimeplus.dir/12th/queue/queue.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/12th/queue/queue.cpp.obj: ../12th/queue/queue.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/CPrimeplus.dir/12th/queue/queue.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\12th\queue\queue.cpp.obj -c F:\C++Code\CPrimeplus\12th\queue\queue.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/queue.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/queue.cpp.obj: ../SourceCode/12th/queue/queue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/queue.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\12th\queue\queue.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\12th\queue\queue.cpp
 
-CMakeFiles/CPrimeplus.dir/12th/queue/queue.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/12th/queue/queue.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\12th\queue\queue.cpp > CMakeFiles\CPrimeplus.dir\12th\queue\queue.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/queue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/queue.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\12th\queue\queue.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\12th\queue\queue.cpp.i
 
-CMakeFiles/CPrimeplus.dir/12th/queue/queue.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/12th/queue/queue.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\12th\queue\queue.cpp -o CMakeFiles\CPrimeplus.dir\12th\queue\queue.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/queue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/queue.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\12th\queue\queue.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\12th\queue\queue.cpp.s
 
-CMakeFiles/CPrimeplus.dir/12th/placenew/palcenew1.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/12th/placenew/palcenew1.cpp.obj: ../12th/placenew/palcenew1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/CPrimeplus.dir/12th/placenew/palcenew1.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\12th\placenew\palcenew1.cpp.obj -c F:\C++Code\CPrimeplus\12th\placenew\palcenew1.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/placenew/palcenew1.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/placenew/palcenew1.cpp.obj: ../SourceCode/12th/placenew/palcenew1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/12th/placenew/palcenew1.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\12th\placenew\palcenew1.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\12th\placenew\palcenew1.cpp
 
-CMakeFiles/CPrimeplus.dir/12th/placenew/palcenew1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/12th/placenew/palcenew1.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\12th\placenew\palcenew1.cpp > CMakeFiles\CPrimeplus.dir\12th\placenew\palcenew1.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/placenew/palcenew1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/12th/placenew/palcenew1.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\12th\placenew\palcenew1.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\12th\placenew\palcenew1.cpp.i
 
-CMakeFiles/CPrimeplus.dir/12th/placenew/palcenew1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/12th/placenew/palcenew1.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\12th\placenew\palcenew1.cpp -o CMakeFiles\CPrimeplus.dir\12th\placenew\palcenew1.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/12th/placenew/palcenew1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/12th/placenew/palcenew1.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\12th\placenew\palcenew1.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\12th\placenew\palcenew1.cpp.s
 
-CMakeFiles/CPrimeplus.dir/10th/practice1/stacker.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/10th/practice1/stacker.cpp.obj: ../10th/practice1/stacker.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/CPrimeplus.dir/10th/practice1/stacker.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\10th\practice1\stacker.cpp.obj -c F:\C++Code\CPrimeplus\10th\practice1\stacker.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/stacker.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/stacker.cpp.obj: ../SourceCode/10th/practice1/stacker.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/stacker.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\10th\practice1\stacker.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\10th\practice1\stacker.cpp
 
-CMakeFiles/CPrimeplus.dir/10th/practice1/stacker.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/10th/practice1/stacker.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\10th\practice1\stacker.cpp > CMakeFiles\CPrimeplus.dir\10th\practice1\stacker.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/stacker.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/stacker.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\10th\practice1\stacker.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\10th\practice1\stacker.cpp.i
 
-CMakeFiles/CPrimeplus.dir/10th/practice1/stacker.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/10th/practice1/stacker.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\10th\practice1\stacker.cpp -o CMakeFiles\CPrimeplus.dir\10th\practice1\stacker.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/stacker.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/stacker.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\10th\practice1\stacker.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\10th\practice1\stacker.cpp.s
 
-CMakeFiles/CPrimeplus.dir/10th/practice1/Stack.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/10th/practice1/Stack.cpp.obj: ../10th/practice1/Stack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/CPrimeplus.dir/10th/practice1/Stack.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\10th\practice1\Stack.cpp.obj -c F:\C++Code\CPrimeplus\10th\practice1\Stack.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/Stack.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/Stack.cpp.obj: ../SourceCode/10th/practice1/Stack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/Stack.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\10th\practice1\Stack.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\10th\practice1\Stack.cpp
 
-CMakeFiles/CPrimeplus.dir/10th/practice1/Stack.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/10th/practice1/Stack.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\10th\practice1\Stack.cpp > CMakeFiles\CPrimeplus.dir\10th\practice1\Stack.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/Stack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/Stack.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\10th\practice1\Stack.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\10th\practice1\Stack.cpp.i
 
-CMakeFiles/CPrimeplus.dir/10th/practice1/Stack.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/10th/practice1/Stack.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\10th\practice1\Stack.cpp -o CMakeFiles\CPrimeplus.dir\10th\practice1\Stack.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/Stack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/Stack.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\10th\practice1\Stack.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\10th\practice1\Stack.cpp.s
 
-CMakeFiles/CPrimeplus.dir/10th/stock/stock20.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/10th/stock/stock20.cpp.obj: ../10th/stock/stock20.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/CPrimeplus.dir/10th/stock/stock20.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\10th\stock\stock20.cpp.obj -c F:\C++Code\CPrimeplus\10th\stock\stock20.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/stock20.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/stock20.cpp.obj: ../SourceCode/10th/stock/stock20.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/stock20.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\10th\stock\stock20.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\10th\stock\stock20.cpp
 
-CMakeFiles/CPrimeplus.dir/10th/stock/stock20.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/10th/stock/stock20.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\10th\stock\stock20.cpp > CMakeFiles\CPrimeplus.dir\10th\stock\stock20.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/stock20.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/stock20.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\10th\stock\stock20.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\10th\stock\stock20.cpp.i
 
-CMakeFiles/CPrimeplus.dir/10th/stock/stock20.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/10th/stock/stock20.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\10th\stock\stock20.cpp -o CMakeFiles\CPrimeplus.dir\10th\stock\stock20.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/stock20.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/stock20.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\10th\stock\stock20.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\10th\stock\stock20.cpp.s
 
-CMakeFiles/CPrimeplus.dir/10th/stock/usestock2.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/10th/stock/usestock2.cpp.obj: ../10th/stock/usestock2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/CPrimeplus.dir/10th/stock/usestock2.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\10th\stock\usestock2.cpp.obj -c F:\C++Code\CPrimeplus\10th\stock\usestock2.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/usestock2.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/usestock2.cpp.obj: ../SourceCode/10th/stock/usestock2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/usestock2.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\10th\stock\usestock2.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\10th\stock\usestock2.cpp
 
-CMakeFiles/CPrimeplus.dir/10th/stock/usestock2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/10th/stock/usestock2.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\10th\stock\usestock2.cpp > CMakeFiles\CPrimeplus.dir\10th\stock\usestock2.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/usestock2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/usestock2.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\10th\stock\usestock2.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\10th\stock\usestock2.cpp.i
 
-CMakeFiles/CPrimeplus.dir/10th/stock/usestock2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/10th/stock/usestock2.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\10th\stock\usestock2.cpp -o CMakeFiles\CPrimeplus.dir\10th\stock\usestock2.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/usestock2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/usestock2.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\10th\stock\usestock2.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\10th\stock\usestock2.cpp.s
 
-CMakeFiles/CPrimeplus.dir/9th/practice1/file1.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/9th/practice1/file1.cpp.obj: ../9th/practice1/file1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/CPrimeplus.dir/9th/practice1/file1.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\9th\practice1\file1.cpp.obj -c F:\C++Code\CPrimeplus\9th\practice1\file1.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file1.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file1.cpp.obj: ../SourceCode/9th/practice1/file1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file1.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\9th\practice1\file1.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\9th\practice1\file1.cpp
 
-CMakeFiles/CPrimeplus.dir/9th/practice1/file1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/9th/practice1/file1.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\9th\practice1\file1.cpp > CMakeFiles\CPrimeplus.dir\9th\practice1\file1.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file1.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\9th\practice1\file1.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\9th\practice1\file1.cpp.i
 
-CMakeFiles/CPrimeplus.dir/9th/practice1/file1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/9th/practice1/file1.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\9th\practice1\file1.cpp -o CMakeFiles\CPrimeplus.dir\9th\practice1\file1.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file1.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\9th\practice1\file1.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\9th\practice1\file1.cpp.s
 
-CMakeFiles/CPrimeplus.dir/9th/practice1/file2.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
-CMakeFiles/CPrimeplus.dir/9th/practice1/file2.cpp.obj: ../9th/practice1/file2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/CPrimeplus.dir/9th/practice1/file2.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\9th\practice1\file2.cpp.obj -c F:\C++Code\CPrimeplus\9th\practice1\file2.cpp
+CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file2.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file2.cpp.obj: ../SourceCode/9th/practice1/file2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file2.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\9th\practice1\file2.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\9th\practice1\file2.cpp
 
-CMakeFiles/CPrimeplus.dir/9th/practice1/file2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/9th/practice1/file2.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\9th\practice1\file2.cpp > CMakeFiles\CPrimeplus.dir\9th\practice1\file2.cpp.i
+CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file2.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\9th\practice1\file2.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\9th\practice1\file2.cpp.i
 
-CMakeFiles/CPrimeplus.dir/9th/practice1/file2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/9th/practice1/file2.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\9th\practice1\file2.cpp -o CMakeFiles\CPrimeplus.dir\9th\practice1\file2.cpp.s
+CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file2.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\9th\practice1\file2.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\9th\practice1\file2.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/student_1.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/student_1.cpp.obj: ../SourceCode/14th/student_1/student_1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/student_1.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\14th\student_1\student_1.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\14th\student_1\student_1.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/student_1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/student_1.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\14th\student_1\student_1.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\14th\student_1\student_1.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/student_1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/student_1.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\14th\student_1\student_1.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\14th\student_1\student_1.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/use_stui.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/use_stui.cpp.obj: ../SourceCode/14th/student_1/use_stui.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/use_stui.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\14th\student_1\use_stui.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\14th\student_1\use_stui.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/use_stui.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/use_stui.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\14th\student_1\use_stui.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\14th\student_1\use_stui.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/use_stui.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/use_stui.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\14th\student_1\use_stui.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\14th\student_1\use_stui.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/Worker0.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/Worker0.cpp.obj: ../SourceCode/14th/worker/Worker0.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/Worker0.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\14th\worker\Worker0.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\14th\worker\Worker0.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/Worker0.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/Worker0.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\14th\worker\Worker0.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\14th\worker\Worker0.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/Worker0.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/Worker0.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\14th\worker\Worker0.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\14th\worker\Worker0.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/worktest.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/worktest.cpp.obj: ../SourceCode/14th/worker/worktest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/worktest.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\14th\worker\worktest.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\14th\worker\worktest.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/worktest.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/worktest.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\14th\worker\worktest.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\14th\worker\worktest.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/worktest.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/worktest.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\14th\worker\worktest.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\14th\worker\worktest.cpp.s
+
+CMakeFiles/CPrimeplus.dir/HouJieVideoCode/complex_test.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/HouJieVideoCode/complex_test.cpp.obj: ../HouJieVideoCode/complex_test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/CPrimeplus.dir/HouJieVideoCode/complex_test.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\HouJieVideoCode\complex_test.cpp.obj -c F:\C++Code\CPrimeplus\HouJieVideoCode\complex_test.cpp
+
+CMakeFiles/CPrimeplus.dir/HouJieVideoCode/complex_test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/HouJieVideoCode/complex_test.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\HouJieVideoCode\complex_test.cpp > CMakeFiles\CPrimeplus.dir\HouJieVideoCode\complex_test.cpp.i
+
+CMakeFiles/CPrimeplus.dir/HouJieVideoCode/complex_test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/HouJieVideoCode/complex_test.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\HouJieVideoCode\complex_test.cpp -o CMakeFiles\CPrimeplus.dir\HouJieVideoCode\complex_test.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/2th/getinfo/getinfo.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/2th/getinfo/getinfo.cpp.obj: ../SourceCode/2th/getinfo/getinfo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/2th/getinfo/getinfo.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\2th\getinfo\getinfo.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\2th\getinfo\getinfo.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/2th/getinfo/getinfo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/2th/getinfo/getinfo.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\2th\getinfo\getinfo.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\2th\getinfo\getinfo.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/2th/getinfo/getinfo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/2th/getinfo/getinfo.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\2th\getinfo\getinfo.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\2th\getinfo\getinfo.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/3th/limits/limits.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/3th/limits/limits.cpp.obj: ../SourceCode/3th/limits/limits.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/3th/limits/limits.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\3th\limits\limits.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\3th\limits\limits.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/3th/limits/limits.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/3th/limits/limits.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\3th\limits\limits.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\3th\limits\limits.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/3th/limits/limits.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/3th/limits/limits.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\3th\limits\limits.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\3th\limits\limits.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/3th/morechar/moretype.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/3th/morechar/moretype.cpp.obj: ../SourceCode/3th/morechar/moretype.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/3th/morechar/moretype.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\3th\morechar\moretype.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\3th\morechar\moretype.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/3th/morechar/moretype.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/3th/morechar/moretype.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\3th\morechar\moretype.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\3th\morechar\moretype.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/3th/morechar/moretype.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/3th/morechar/moretype.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\3th\morechar\moretype.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\3th\morechar\moretype.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/3th/floatnum/floatnum.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/3th/floatnum/floatnum.cpp.obj: ../SourceCode/3th/floatnum/floatnum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/3th/floatnum/floatnum.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\3th\floatnum\floatnum.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\3th\floatnum\floatnum.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/3th/floatnum/floatnum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/3th/floatnum/floatnum.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\3th\floatnum\floatnum.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\3th\floatnum\floatnum.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/3th/floatnum/floatnum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/3th/floatnum/floatnum.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\3th\floatnum\floatnum.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\3th\floatnum\floatnum.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/3th/typycast/typecast.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/3th/typycast/typecast.cpp.obj: ../SourceCode/3th/typycast/typecast.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/3th/typycast/typecast.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\3th\typycast\typecast.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\3th\typycast\typecast.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/3th/typycast/typecast.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/3th/typycast/typecast.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\3th\typycast\typecast.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\3th\typycast\typecast.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/3th/typycast/typecast.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/3th/typycast/typecast.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\3th\typycast\typecast.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\3th\typycast\typecast.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr2.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr2.cpp.obj: ../SourceCode/4th/instr/instr2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr2.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\instr\instr2.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\4th\instr\instr2.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr2.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\4th\instr\instr2.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\4th\instr\instr2.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr2.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\4th\instr\instr2.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\instr\instr2.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr3.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr3.cpp.obj: ../SourceCode/4th/instr/instr3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr3.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\instr\instr3.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\4th\instr\instr3.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr3.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\4th\instr\instr3.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\4th\instr\instr3.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr3.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\4th\instr\instr3.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\instr\instr3.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype.cpp.obj: ../SourceCode/4th/string/strtype.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\string\strtype.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\4th\string\strtype.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\4th\string\strtype.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\4th\string\strtype.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\4th\string\strtype.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\string\strtype.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype3.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype3.cpp.obj: ../SourceCode/4th/string/strtype3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype3.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\string\strtype3.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\4th\string\strtype3.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype3.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\4th\string\strtype3.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\4th\string\strtype3.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype3.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\4th\string\strtype3.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\string\strtype3.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/struct/structur.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/struct/structur.cpp.obj: ../SourceCode/4th/struct/structur.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/4th/struct/structur.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\struct\structur.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\4th\struct\structur.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/struct/structur.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/4th/struct/structur.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\4th\struct\structur.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\4th\struct\structur.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/struct/structur.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/4th/struct/structur.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\4th\struct\structur.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\struct\structur.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/address.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/address.cpp.obj: ../SourceCode/4th/pointer/address.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/address.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\address.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\4th\pointer\address.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/address.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/address.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\4th\pointer\address.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\address.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/address.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/address.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\4th\pointer\address.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\address.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/pointer.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/pointer.cpp.obj: ../SourceCode/4th/pointer/pointer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/pointer.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\pointer.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\4th\pointer\pointer.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/pointer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/pointer.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\4th\pointer\pointer.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\pointer.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/pointer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/pointer.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\4th\pointer\pointer.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\pointer.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/use_new.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/use_new.cpp.obj: ../SourceCode/4th/pointer/use_new.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/use_new.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\use_new.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\4th\pointer\use_new.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/use_new.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/use_new.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\4th\pointer\use_new.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\use_new.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/use_new.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/use_new.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\4th\pointer\use_new.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\use_new.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/arraynew.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/arraynew.cpp.obj: ../SourceCode/4th/pointer/arraynew.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/arraynew.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\arraynew.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\4th\pointer\arraynew.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/arraynew.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/arraynew.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\4th\pointer\arraynew.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\arraynew.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/arraynew.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/arraynew.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\4th\pointer\arraynew.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\arraynew.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/addpntrs.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/addpntrs.cpp.obj: ../SourceCode/4th/pointer/addpntrs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/addpntrs.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\addpntrs.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\4th\pointer\addpntrs.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/addpntrs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/addpntrs.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\4th\pointer\addpntrs.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\addpntrs.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/addpntrs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/addpntrs.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\4th\pointer\addpntrs.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\addpntrs.cpp.s
+
+CMakeFiles/CPrimeplus.dir/TestCode/test.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/TestCode/test.cpp.obj: ../TestCode/test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/CPrimeplus.dir/TestCode/test.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\TestCode\test.cpp.obj -c F:\C++Code\CPrimeplus\TestCode\test.cpp
+
+CMakeFiles/CPrimeplus.dir/TestCode/test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/TestCode/test.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\TestCode\test.cpp > CMakeFiles\CPrimeplus.dir\TestCode\test.cpp.i
+
+CMakeFiles/CPrimeplus.dir/TestCode/test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/TestCode/test.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\TestCode\test.cpp -o CMakeFiles\CPrimeplus.dir\TestCode\test.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/ptrstr.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/ptrstr.cpp.obj: ../SourceCode/4th/pointer/ptrstr.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/ptrstr.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\ptrstr.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\4th\pointer\ptrstr.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/ptrstr.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/ptrstr.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\4th\pointer\ptrstr.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\ptrstr.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/ptrstr.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/ptrstr.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\4th\pointer\ptrstr.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\ptrstr.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/newstrct.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/newstrct.cpp.obj: ../SourceCode/4th/pointer/newstrct.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/newstrct.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\newstrct.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\4th\pointer\newstrct.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/newstrct.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/newstrct.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\4th\pointer\newstrct.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\newstrct.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/newstrct.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/newstrct.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\4th\pointer\newstrct.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\newstrct.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/delete.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/delete.cpp.obj: ../SourceCode/4th/pointer/delete.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/delete.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\delete.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\4th\pointer\delete.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/delete.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/delete.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\4th\pointer\delete.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\delete.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/delete.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/delete.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\4th\pointer\delete.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\4th\pointer\delete.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/vector&array/choices.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/vector&array/choices.cpp.obj: ../SourceCode/4th/vector&array/choices.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/4th/vector&array/choices.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\CPrimeplus.dir\SourceCode\4th\vector&array\choices.cpp.obj" -c "F:\C++Code\CPrimeplus\SourceCode\4th\vector&array\choices.cpp"
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/vector&array/choices.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/4th/vector&array/choices.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\C++Code\CPrimeplus\SourceCode\4th\vector&array\choices.cpp" > "CMakeFiles\CPrimeplus.dir\SourceCode\4th\vector&array\choices.cpp.i"
+
+CMakeFiles/CPrimeplus.dir/SourceCode/4th/vector&array/choices.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/4th/vector&array/choices.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\C++Code\CPrimeplus\SourceCode\4th\vector&array\choices.cpp" -o "CMakeFiles\CPrimeplus.dir\SourceCode\4th\vector&array\choices.cpp.s"
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/forstr1.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/forstr1.cpp.obj: ../SourceCode/5th/forLoop/forstr1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/forstr1.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\forLoop\forstr1.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\5th\forLoop\forstr1.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/forstr1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/forstr1.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\5th\forLoop\forstr1.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\5th\forLoop\forstr1.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/forstr1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/forstr1.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\5th\forLoop\forstr1.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\forLoop\forstr1.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr1.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr1.cpp.obj: ../SourceCode/5th/forLoop/compstr1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr1.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\forLoop\compstr1.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\5th\forLoop\compstr1.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr1.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\5th\forLoop\compstr1.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\5th\forLoop\compstr1.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr1.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\5th\forLoop\compstr1.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\forLoop\compstr1.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr2.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr2.cpp.obj: ../SourceCode/5th/forLoop/compstr2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr2.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\forLoop\compstr2.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\5th\forLoop\compstr2.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr2.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\5th\forLoop\compstr2.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\5th\forLoop\compstr2.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr2.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\5th\forLoop\compstr2.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\forLoop\compstr2.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/while.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/while.cpp.obj: ../SourceCode/5th/whileLoop/while.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/while.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\whileLoop\while.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\5th\whileLoop\while.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/while.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/while.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\5th\whileLoop\while.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\5th\whileLoop\while.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/while.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/while.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\5th\whileLoop\while.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\whileLoop\while.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/waiting.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/waiting.cpp.obj: ../SourceCode/5th/whileLoop/waiting.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/waiting.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\whileLoop\waiting.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\5th\whileLoop\waiting.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/waiting.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/waiting.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\5th\whileLoop\waiting.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\5th\whileLoop\waiting.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/waiting.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/waiting.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\5th\whileLoop\waiting.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\whileLoop\waiting.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin1.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin1.cpp.obj: ../SourceCode/5th/loopAndTextinput/textin1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin1.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\loopAndTextinput\textin1.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\5th\loopAndTextinput\textin1.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin1.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\5th\loopAndTextinput\textin1.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\5th\loopAndTextinput\textin1.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin1.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\5th\loopAndTextinput\textin1.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\loopAndTextinput\textin1.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin2.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin2.cpp.obj: ../SourceCode/5th/loopAndTextinput/textin2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin2.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\loopAndTextinput\textin2.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\5th\loopAndTextinput\textin2.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin2.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\5th\loopAndTextinput\textin2.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\5th\loopAndTextinput\textin2.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin2.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\5th\loopAndTextinput\textin2.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\loopAndTextinput\textin2.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin3.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin3.cpp.obj: ../SourceCode/5th/loopAndTextinput/textin3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin3.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\loopAndTextinput\textin3.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\5th\loopAndTextinput\textin3.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin3.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\5th\loopAndTextinput\textin3.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\5th\loopAndTextinput\textin3.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin3.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\5th\loopAndTextinput\textin3.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\loopAndTextinput\textin3.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin4.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin4.cpp.obj: ../SourceCode/5th/loopAndTextinput/textin4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin4.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\loopAndTextinput\textin4.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\5th\loopAndTextinput\textin4.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin4.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\5th\loopAndTextinput\textin4.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\5th\loopAndTextinput\textin4.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin4.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\5th\loopAndTextinput\textin4.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\5th\loopAndTextinput\textin4.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/ifandifelse/if.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/ifandifelse/if.cpp.obj: ../SourceCode/6th/ifandifelse/if.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/6th/ifandifelse/if.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\ifandifelse\if.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\6th\ifandifelse\if.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/ifandifelse/if.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/6th/ifandifelse/if.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\6th\ifandifelse\if.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\6th\ifandifelse\if.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/ifandifelse/if.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/6th/ifandifelse/if.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\6th\ifandifelse\if.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\ifandifelse\if.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/cctypes.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/cctypes.cpp.obj: ../SourceCode/6th/LogicOperation/cctypes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/cctypes.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\LogicOperation\cctypes.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\6th\LogicOperation\cctypes.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/cctypes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/cctypes.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\6th\LogicOperation\cctypes.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\6th\LogicOperation\cctypes.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/cctypes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/cctypes.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\6th\LogicOperation\cctypes.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\LogicOperation\cctypes.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/condit.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/condit.cpp.obj: ../SourceCode/6th/LogicOperation/condit.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/condit.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\LogicOperation\condit.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\6th\LogicOperation\condit.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/condit.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/condit.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\6th\LogicOperation\condit.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\6th\LogicOperation\condit.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/condit.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/condit.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\6th\LogicOperation\condit.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\LogicOperation\condit.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/switch.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/switch.cpp.obj: ../SourceCode/6th/switch/switch.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/switch.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\switch\switch.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\6th\switch\switch.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/switch.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/switch.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\6th\switch\switch.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\6th\switch\switch.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/switch.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/switch.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\6th\switch\switch.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\switch\switch.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/enum.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/enum.cpp.obj: ../SourceCode/6th/switch/enum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/enum.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\switch\enum.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\6th\switch\enum.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/enum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/enum.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\6th\switch\enum.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\6th\switch\enum.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/enum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/enum.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\6th\switch\enum.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\switch\enum.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cinfish.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cinfish.cpp.obj: ../SourceCode/6th/InputAndOutput/cinfish.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cinfish.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\InputAndOutput\cinfish.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\6th\InputAndOutput\cinfish.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cinfish.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cinfish.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\6th\InputAndOutput\cinfish.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\6th\InputAndOutput\cinfish.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cinfish.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cinfish.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\6th\InputAndOutput\cinfish.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\InputAndOutput\cinfish.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cingolf.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cingolf.cpp.obj: ../SourceCode/6th/InputAndOutput/cingolf.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cingolf.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\InputAndOutput\cingolf.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\6th\InputAndOutput\cingolf.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cingolf.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cingolf.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\6th\InputAndOutput\cingolf.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\6th\InputAndOutput\cingolf.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cingolf.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cingolf.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\6th\InputAndOutput\cingolf.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\InputAndOutput\cingolf.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/outfile.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/outfile.cpp.obj: ../SourceCode/6th/IO/outfile.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/outfile.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\IO\outfile.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\6th\IO\outfile.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/outfile.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/outfile.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\6th\IO\outfile.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\6th\IO\outfile.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/outfile.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/outfile.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\6th\IO\outfile.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\IO\outfile.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/sumafile.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/sumafile.cpp.obj: ../SourceCode/6th/IO/sumafile.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/sumafile.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\IO\sumafile.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\6th\IO\sumafile.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/sumafile.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/sumafile.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\6th\IO\sumafile.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\6th\IO\sumafile.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/sumafile.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/sumafile.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\6th\IO\sumafile.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\6th\IO\sumafile.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/twoarg/twoarg.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/twoarg/twoarg.cpp.obj: ../SourceCode/7th/twoarg/twoarg.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/7th/twoarg/twoarg.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\7th\twoarg\twoarg.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\7th\twoarg\twoarg.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/twoarg/twoarg.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/7th/twoarg/twoarg.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\7th\twoarg\twoarg.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\7th\twoarg\twoarg.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/twoarg/twoarg.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/7th/twoarg/twoarg.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\7th\twoarg\twoarg.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\7th\twoarg\twoarg.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/lotto/lotto.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/lotto/lotto.cpp.obj: ../SourceCode/7th/lotto/lotto.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/7th/lotto/lotto.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\7th\lotto\lotto.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\7th\lotto\lotto.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/lotto/lotto.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/7th/lotto/lotto.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\7th\lotto\lotto.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\7th\lotto\lotto.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/lotto/lotto.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/7th/lotto/lotto.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\7th\lotto\lotto.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\7th\lotto\lotto.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun1.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun1.cpp.obj: ../SourceCode/7th/FunctionAndArray/arrfun1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun1.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\7th\FunctionAndArray\arrfun1.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\7th\FunctionAndArray\arrfun1.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun1.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\7th\FunctionAndArray\arrfun1.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\7th\FunctionAndArray\arrfun1.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun1.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\7th\FunctionAndArray\arrfun1.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\7th\FunctionAndArray\arrfun1.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun2.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun2.cpp.obj: ../SourceCode/7th/FunctionAndArray/arrfun2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun2.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\7th\FunctionAndArray\arrfun2.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\7th\FunctionAndArray\arrfun2.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun2.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\7th\FunctionAndArray\arrfun2.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\7th\FunctionAndArray\arrfun2.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun2.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\7th\FunctionAndArray\arrfun2.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\7th\FunctionAndArray\arrfun2.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun3.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun3.cpp.obj: ../SourceCode/7th/FunctionAndArray/arrfun3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun3.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\7th\FunctionAndArray\arrfun3.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\7th\FunctionAndArray\arrfun3.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun3.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\7th\FunctionAndArray\arrfun3.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\7th\FunctionAndArray\arrfun3.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun3.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\7th\FunctionAndArray\arrfun3.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\7th\FunctionAndArray\arrfun3.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun4.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun4.cpp.obj: ../SourceCode/7th/FunctionAndArray/arrfun4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun4.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\7th\FunctionAndArray\arrfun4.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\7th\FunctionAndArray\arrfun4.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun4.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\7th\FunctionAndArray\arrfun4.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\7th\FunctionAndArray\arrfun4.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun4.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\7th\FunctionAndArray\arrfun4.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\7th\FunctionAndArray\arrfun4.cpp.s
+
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const.cpp.obj: ../Keywords/Keywords_const.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\Keywords\Keywords_const.cpp.obj -c F:\C++Code\CPrimeplus\Keywords\Keywords_const.cpp
+
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\Keywords\Keywords_const.cpp > CMakeFiles\CPrimeplus.dir\Keywords\Keywords_const.cpp.i
+
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\Keywords\Keywords_const.cpp -o CMakeFiles\CPrimeplus.dir\Keywords\Keywords_const.cpp.s
+
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const_virtual.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const_virtual.cpp.obj: ../Keywords/Keywords_const_virtual.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const_virtual.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\Keywords\Keywords_const_virtual.cpp.obj -c F:\C++Code\CPrimeplus\Keywords\Keywords_const_virtual.cpp
+
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const_virtual.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const_virtual.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\Keywords\Keywords_const_virtual.cpp > CMakeFiles\CPrimeplus.dir\Keywords\Keywords_const_virtual.cpp.i
+
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const_virtual.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const_virtual.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\Keywords\Keywords_const_virtual.cpp -o CMakeFiles\CPrimeplus.dir\Keywords\Keywords_const_virtual.cpp.s
+
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_inline.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_inline.cpp.obj: ../Keywords/Keywords_inline.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/CPrimeplus.dir/Keywords/Keywords_inline.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\Keywords\Keywords_inline.cpp.obj -c F:\C++Code\CPrimeplus\Keywords\Keywords_inline.cpp
+
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_inline.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/Keywords/Keywords_inline.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\Keywords\Keywords_inline.cpp > CMakeFiles\CPrimeplus.dir\Keywords\Keywords_inline.cpp.i
+
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_inline.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/Keywords/Keywords_inline.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\Keywords\Keywords_inline.cpp -o CMakeFiles\CPrimeplus.dir\Keywords\Keywords_inline.cpp.s
+
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_static.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_static.cpp.obj: ../Keywords/Keywords_static.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/CPrimeplus.dir/Keywords/Keywords_static.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\Keywords\Keywords_static.cpp.obj -c F:\C++Code\CPrimeplus\Keywords\Keywords_static.cpp
+
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_static.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/Keywords/Keywords_static.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\Keywords\Keywords_static.cpp > CMakeFiles\CPrimeplus.dir\Keywords\Keywords_static.cpp.i
+
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_static.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/Keywords/Keywords_static.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\Keywords\Keywords_static.cpp -o CMakeFiles\CPrimeplus.dir\Keywords\Keywords_static.cpp.s
+
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_this.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_this.cpp.obj: ../Keywords/Keywords_this.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/CPrimeplus.dir/Keywords/Keywords_this.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\Keywords\Keywords_this.cpp.obj -c F:\C++Code\CPrimeplus\Keywords\Keywords_this.cpp
+
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_this.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/Keywords/Keywords_this.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\Keywords\Keywords_this.cpp > CMakeFiles\CPrimeplus.dir\Keywords\Keywords_this.cpp.i
+
+CMakeFiles/CPrimeplus.dir/Keywords/Keywords_this.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/Keywords/Keywords_this.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\Keywords\Keywords_this.cpp -o CMakeFiles\CPrimeplus.dir\Keywords\Keywords_this.cpp.s
 
 # Object files for target CPrimeplus
 CPrimeplus_OBJECTS = \
 "CMakeFiles/CPrimeplus.dir/main.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/14th/student/student.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/14th/student/use_stuc.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/13th/brass/brass.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/13th/DMA/dma.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/13th/tabletennis/tablenn1.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/12th/String/sayings1.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/12th/String/sayings2.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/12th/String/string1.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/12th/queue/bank.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/12th/queue/queue.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/12th/placenew/palcenew1.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/10th/practice1/stacker.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/10th/practice1/Stack.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/10th/stock/stock20.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/10th/stock/usestock2.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/9th/practice1/file1.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/9th/practice1/file2.cpp.obj"
+"CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/student.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/use_stuc.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/13th/brass/brass.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/13th/DMA/dma.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/13th/tabletennis/tablenn1.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings1.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings2.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/string1.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/bank.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/queue.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/12th/placenew/palcenew1.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/stacker.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/Stack.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/stock20.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/usestock2.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file1.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file2.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/student_1.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/use_stui.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/Worker0.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/worktest.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/HouJieVideoCode/complex_test.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/2th/getinfo/getinfo.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/3th/limits/limits.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/3th/morechar/moretype.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/3th/floatnum/floatnum.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/3th/typycast/typecast.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr2.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr3.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype3.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/4th/struct/structur.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/address.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/pointer.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/use_new.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/arraynew.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/addpntrs.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/TestCode/test.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/ptrstr.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/newstrct.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/delete.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/4th/vector&array/choices.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/forstr1.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr1.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr2.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/while.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/waiting.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin1.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin2.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin3.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin4.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/6th/ifandifelse/if.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/cctypes.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/condit.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/switch.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/enum.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cinfish.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cingolf.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/outfile.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/sumafile.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/7th/twoarg/twoarg.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/7th/lotto/lotto.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun1.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun2.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun3.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun4.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const_virtual.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/Keywords/Keywords_inline.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/Keywords/Keywords_static.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/Keywords/Keywords_this.cpp.obj"
 
 # External object files for target CPrimeplus
 CPrimeplus_EXTERNAL_OBJECTS =
 
 CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/main.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/14th/student/student.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/14th/student/use_stuc.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/13th/brass/brass.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/13th/DMA/dma.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/13th/tabletennis/tablenn1.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/12th/String/sayings1.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/12th/String/sayings2.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/12th/String/string1.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/12th/queue/bank.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/12th/queue/queue.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/12th/placenew/palcenew1.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/10th/practice1/stacker.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/10th/practice1/Stack.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/10th/stock/stock20.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/10th/stock/usestock2.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/9th/practice1/file1.cpp.obj
-CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/9th/practice1/file2.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/student.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/use_stuc.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/13th/brass/brass.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/13th/DMA/dma.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/13th/tabletennis/tablenn1.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings1.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings2.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/string1.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/bank.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/queue.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/12th/placenew/palcenew1.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/stacker.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/Stack.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/stock20.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/usestock2.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file1.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file2.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/student_1.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/use_stui.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/Worker0.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/worktest.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/HouJieVideoCode/complex_test.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/2th/getinfo/getinfo.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/3th/limits/limits.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/3th/morechar/moretype.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/3th/floatnum/floatnum.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/3th/typycast/typecast.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr2.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr3.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype3.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/4th/struct/structur.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/address.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/pointer.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/use_new.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/arraynew.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/addpntrs.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/TestCode/test.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/ptrstr.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/newstrct.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/delete.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/4th/vector&array/choices.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/forstr1.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr1.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr2.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/while.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/waiting.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin1.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin2.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin3.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin4.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/6th/ifandifelse/if.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/cctypes.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/condit.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/switch.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/enum.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cinfish.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cingolf.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/outfile.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/sumafile.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/7th/twoarg/twoarg.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/7th/lotto/lotto.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun1.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun2.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun3.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun4.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/Keywords/Keywords_const_virtual.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/Keywords/Keywords_inline.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/Keywords/Keywords_static.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/Keywords/Keywords_this.cpp.obj
 CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/build.make
 CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/linklibs.rsp
 CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/objects1.rsp
 CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX executable CPrimeplus.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Linking CXX executable CPrimeplus.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CPrimeplus.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

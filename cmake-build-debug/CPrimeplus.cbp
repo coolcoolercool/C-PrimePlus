@@ -80,82 +80,256 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="F:/C++Code/CPrimeplus/10th/practice1/Stack.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/HouJieVideoCode/complex.h">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/10th/practice1/Stack.h">
+		<Unit filename="F:/C++Code/CPrimeplus/HouJieVideoCode/complex_test.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/10th/practice1/stacker.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/Keywords/Keywords_const.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/10th/stock/stock20.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/Keywords/Keywords_const_virtual.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/10th/stock/stock20.h">
+		<Unit filename="F:/C++Code/CPrimeplus/Keywords/Keywords_inline.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/10th/stock/usestock2.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/Keywords/Keywords_static.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/12th/String/sayings1.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/Keywords/Keywords_this.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/12th/String/sayings2.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/10th/practice1/Stack.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/12th/String/string1.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/10th/practice1/Stack.h">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/12th/String/string1.h">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/10th/practice1/stacker.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/12th/placenew/palcenew1.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/10th/stock/stock20.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/12th/queue/bank.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/10th/stock/stock20.h">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/12th/queue/queue.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/10th/stock/usestock2.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/12th/queue/queue.h">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/12th/String/sayings1.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/13th/DMA/dma.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/12th/String/sayings2.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/13th/DMA/dma.h">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/12th/String/string1.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/13th/brass/brass.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/12th/String/string1.h">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/13th/brass/brass.h">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/12th/placenew/palcenew1.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/13th/tabletennis/tablenn1.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/12th/queue/bank.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/13th/tabletennis/tablenn1.h">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/12th/queue/queue.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/14th/student/student.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/12th/queue/queue.h">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/14th/student/studentc.h">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/13th/DMA/dma.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/14th/student/use_stuc.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/13th/DMA/dma.h">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/9th/practice1/coordin.h">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/13th/brass/brass.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/9th/practice1/file1.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/13th/brass/brass.h">
 			<Option target="CPrimeplus"/>
 		</Unit>
-		<Unit filename="F:/C++Code/CPrimeplus/9th/practice1/file2.cpp">
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/13th/tabletennis/tablenn1.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/13th/tabletennis/tablenn1.h">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/14th/student/student.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/14th/student/studentc.h">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/14th/student/use_stuc.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/14th/student_1/student_1.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/14th/student_1/studenti.h">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/14th/student_1/use_stui.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/14th/worker/Worker0.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/14th/worker/Worker0.h">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/14th/worker/worktest.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/14th/worker1/workermi.h">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/2th/getinfo/getinfo.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/3th/floatnum/floatnum.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/3th/limits/limits.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/3th/morechar/moretype.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/3th/typycast/typecast.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/4th/instr/instr2.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/4th/instr/instr3.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/4th/pointer/addpntrs.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/4th/pointer/address.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/4th/pointer/arraynew.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/4th/pointer/delete.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/4th/pointer/newstrct.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/4th/pointer/pointer.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/4th/pointer/ptrstr.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/4th/pointer/use_new.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/4th/string/strtype.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/4th/string/strtype3.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/4th/struct/structur.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/4th/vector&amp;array/choices.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/5th/forLoop/compstr1.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/5th/forLoop/compstr2.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/5th/forLoop/forstr1.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/5th/loopAndTextinput/textin1.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/5th/loopAndTextinput/textin2.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/5th/loopAndTextinput/textin3.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/5th/loopAndTextinput/textin4.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/5th/whileLoop/waiting.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/5th/whileLoop/while.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/6th/IO/outfile.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/6th/IO/sumafile.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/6th/InputAndOutput/cinfish.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/6th/InputAndOutput/cingolf.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/6th/LogicOperation/cctypes.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/6th/LogicOperation/condit.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/6th/ifandifelse/if.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/6th/switch/enum.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/6th/switch/switch.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/7th/FunctionAndArray/arrfun1.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/7th/FunctionAndArray/arrfun2.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/7th/FunctionAndArray/arrfun3.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/7th/FunctionAndArray/arrfun4.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/7th/lotto/lotto.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/7th/twoarg/twoarg.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/9th/practice1/coordin.h">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/9th/practice1/file1.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/9th/practice1/file2.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/TestCode/test.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
 		<Unit filename="F:/C++Code/CPrimeplus/main.cpp">

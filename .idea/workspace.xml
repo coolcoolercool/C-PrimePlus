@@ -11,182 +11,24 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="295d3565-40a7-4d0b-9c12-4fe2e26d2750" name="Default Changelist" comment="C++ Prime Plus 6th">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HouJieVideoCode/complex.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HouJieVideoCode/complex_test.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Keywords/Keywords_const.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Keywords/Keywords_const_virtual.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Keywords/Keywords_inline.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Keywords/Keywords_static.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Keywords/Keywords_this.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/14th/student_1/student_1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/14th/student_1/studenti.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/14th/student_1/use_stui.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/14th/worker/Worker0.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/14th/worker/Worker0.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/14th/worker/worktest.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/14th/worker1/workermi.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/2th/getinfo/getinfo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/3th/floatnum/floatnum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/3th/limits/limits.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/3th/morechar/moretype.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/3th/typycast/typecast.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/4th/instr/instr2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/4th/instr/instr3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/4th/pointer/addpntrs.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/4th/pointer/address.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/4th/pointer/arraynew.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/4th/pointer/delete.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/4th/pointer/newstrct.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/4th/pointer/pointer.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/4th/pointer/ptrstr.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/4th/pointer/use_new.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/4th/string/strtype.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/4th/string/strtype3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/4th/struct/structur.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/4th/vector&amp;array/choices.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/5th/forLoop/compstr1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/5th/forLoop/compstr2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/5th/forLoop/forstr1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/5th/loopAndTextinput/textin1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/5th/loopAndTextinput/textin2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/5th/loopAndTextinput/textin3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/5th/loopAndTextinput/textin4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/5th/whileLoop/waiting.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/5th/whileLoop/while.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/6th/IO/outfile.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/6th/IO/scores.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/6th/IO/sumafile.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/6th/InputAndOutput/cinfish.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/6th/InputAndOutput/cingolf.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/6th/LogicOperation/cctypes.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/6th/LogicOperation/condit.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/6th/ifandifelse/if.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/6th/switch/enum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/6th/switch/switch.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/7th/FunctionAndArray/arrfun1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/7th/FunctionAndArray/arrfun2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/7th/FunctionAndArray/arrfun3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/7th/FunctionAndArray/arrfun4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/7th/lotto/lotto.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SourceCode/7th/twoarg/twoarg.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCode/test.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/HouJieVideoCode/complex_test.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/Stack.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/10th/practice1/stacker.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/stock20.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/10th/stock/usestock2.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings1.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/sayings2.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/12th/String/string1.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/12th/placenew/palcenew1.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/bank.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/12th/queue/queue.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/13th/DMA/dma.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/13th/brass/brass.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/13th/tabletennis/tablenn1.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/student.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/use_stuc.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/student_1.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/use_stui.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/Worker0.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/worktest.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/2th/getinfo/getinfo.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/3th/floatnum/floatnum.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/3th/limits/limits.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/3th/morechar/moretype.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/3th/typycast/typecast.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr2.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/4th/instr/instr3.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/addpntrs.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/address.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/arraynew.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/delete.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/newstrct.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/pointer.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/ptrstr.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/4th/pointer/use_new.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/4th/string/strtype3.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/4th/struct/structur.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/4th/vector&amp;array/choices.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr1.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/compstr2.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/5th/forLoop/forstr1.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin1.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin2.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin3.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/5th/loopAndTextinput/textin4.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/waiting.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/5th/whileLoop/while.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/outfile.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/6th/IO/sumafile.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cinfish.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/6th/InputAndOutput/cingolf.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/cctypes.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/6th/LogicOperation/condit.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/6th/ifandifelse/if.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/enum.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/6th/switch/switch.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun1.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun2.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun3.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun4.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/7th/lotto/lotto.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/7th/twoarg/twoarg.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file1.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/9th/practice1/file2.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/TestCode/test.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/carinfo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="295d3565-40a7-4d0b-9c12-4fe2e26d2750" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keyword_structAndclass.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_assert.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_decltype.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_explicit.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_sizeof.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_union.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_volatile.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10th/practice1/Stack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/10th/practice1/Stack.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10th/practice1/Stack.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/10th/practice1/Stack.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10th/practice1/stacker.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/10th/practice1/stacker.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10th/stock/stock20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/10th/stock/stock20.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10th/stock/stock20.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/10th/stock/stock20.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10th/stock/usestock2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/10th/stock/usestock2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12th/String/sayings1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/12th/String/sayings1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12th/String/sayings2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/12th/String/sayings2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12th/String/string1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/12th/String/string1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12th/String/string1.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/12th/String/string1.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12th/placenew/palcenew1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/12th/placenew/palcenew1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12th/queue/bank.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/12th/queue/bank.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12th/queue/queue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/12th/queue/queue.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12th/queue/queue.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/12th/queue/queue.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13th/DMA/dma.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/13th/DMA/dma.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13th/DMA/dma.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/13th/DMA/dma.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13th/brass/brass.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/13th/brass/brass.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13th/brass/brass.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/13th/brass/brass.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13th/tabletennis/tablenn1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/13th/tabletennis/tablenn1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13th/tabletennis/tablenn1.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/13th/tabletennis/tablenn1.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14th/student/student.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/14th/student/student.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14th/student/studentc.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/14th/student/studentc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14th/student/use_stuc.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/14th/student/use_stuc.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9th/practice1/coordin.h" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/9th/practice1/coordin.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9th/practice1/file1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/9th/practice1/file1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9th/practice1/file2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SourceCode/9th/practice1/file2.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/10th/practice1/Stack.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/10th/practice1/stacker.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/10th/stock/stock20.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/10th/stock/usestock2.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/12th/String/sayings1.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/12th/String/sayings2.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/12th/String/string1.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/12th/placenew/palcenew1.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/12th/queue/bank.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/12th/queue/queue.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/13th/DMA/dma.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/13th/brass/brass.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/13th/tabletennis/tablenn1.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/14th/student/student.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/14th/student/use_stuc.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/9th/practice1/file1.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/9th/practice1/file2.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keywords/Keywords_const.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_const.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keywords/Keywords_const_virtual.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_const_virtual.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keywords/Keywords_inline.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_inline.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keywords/Keywords_static.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_static.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keywords/Keywords_this.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_this.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun4.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/7th/FunctionAndArray/arrfun4.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPrimeplus.dir/depend.internal" afterDir="false" />
@@ -212,43 +54,17 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Keywords/Keywords_const.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Keywords/Keywords_const_virtual.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Keywords/Keywords_inline.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Keywords/Keywords_static.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Keywords/Keywords_this.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_decltype.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <element signature="e#172#185#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -268,14 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/14th/worker/worktest.cpp" />
-        <option value="$PROJECT_DIR$/HouJieVideoCode/complex.h" />
-        <option value="$PROJECT_DIR$/HouJieVideoCode/complex_test.cpp" />
-        <option value="$PROJECT_DIR$/2th/getinfo/getinfo.cpp" />
-        <option value="$PROJECT_DIR$/3th/limits/limits.cpp" />
-        <option value="$PROJECT_DIR$/3th/morechar/moretype.cpp" />
-        <option value="$PROJECT_DIR$/3th/floatnum/floatnum.cpp" />
-        <option value="$PROJECT_DIR$/3th/typycast/typecast.cpp" />
         <option value="$PROJECT_DIR$/4th/instr/instr2.cpp" />
         <option value="$PROJECT_DIR$/4th/instr/instr3.cpp" />
         <option value="$PROJECT_DIR$/4th/string/strtype.cpp" />
@@ -319,6 +127,14 @@
         <option value="$PROJECT_DIR$/SourceCode/7th/FunctionAndArray/arrfun3.cpp" />
         <option value="$PROJECT_DIR$/SourceCode/7th/FunctionAndArray/arrfun4.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_volatile.cpp" />
+        <option value="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_assert.cpp" />
+        <option value="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_sizeof.cpp" />
+        <option value="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_const_virtual.cpp" />
+        <option value="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_union.cpp" />
+        <option value="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keyword_structAndclass.cpp" />
+        <option value="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_explicit.cpp" />
+        <option value="$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_decltype.cpp" />
       </list>
     </option>
   </component>
@@ -347,12 +163,13 @@
             <path>
               <item name="CPrimeplus" type="b2602c69:ProjectViewProjectNode" />
               <item name="CPrimeplus" type="462c0819:PsiDirectoryNode" />
-              <item name="Keywords" type="462c0819:PsiDirectoryNode" />
+              <item name="GrammarKnowledge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CPrimeplus" type="b2602c69:ProjectViewProjectNode" />
               <item name="CPrimeplus" type="462c0819:PsiDirectoryNode" />
-              <item name="SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="GrammarKnowledge" type="462c0819:PsiDirectoryNode" />
+              <item name="Keywords" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -376,18 +193,18 @@
     <property name="settings.editor.selected.configurable" value="CMakeSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\C++Code\CPrimeplus\GrammarKnowledge" />
+      <recent name="F:\C++Code\CPrimeplus\SourceCode" />
+      <recent name="F:\C++Code\CPrimeplus\13th\tabletennis" />
+      <recent name="F:\C++Code\CPrimeplus\13th\DMA" />
+      <recent name="F:\C++Code\CPrimeplus\13th\brass" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\C++Code\CPrimeplus\9th" />
       <recent name="F:\C++Code\CPrimeplus\10th" />
       <recent name="F:\C++Code\CPrimeplus\12th" />
       <recent name="F:\C++Code\CPrimeplus" />
-      <recent name="F:\C++Code\CPrimeplus\14th\student" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\C++Code\CPrimeplus\SourceCode" />
-      <recent name="F:\C++Code\CPrimeplus\13th\tabletennis" />
-      <recent name="F:\C++Code\CPrimeplus\13th\DMA" />
-      <recent name="F:\C++Code\CPrimeplus\13th\brass" />
       <recent name="F:\C++Code\CPrimeplus\14th\student" />
     </key>
   </component>
@@ -462,7 +279,9 @@
       <workItem from="1572935202042" duration="21315000" />
       <workItem from="1573191638041" duration="22234000" />
       <workItem from="1573463012488" duration="8718000" />
-      <workItem from="1577781429644" duration="244000" />
+      <workItem from="1577781429644" duration="1023000" />
+      <workItem from="1577846564200" duration="794000" />
+      <workItem from="1577931968795" duration="5909000" />
     </task>
     <task id="LOCAL-00001" summary="C++ Prime Plus 6th">
       <created>1560260818132</created>
@@ -471,31 +290,39 @@
       <option name="project" value="LOCAL" />
       <updated>1560260818132</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="C++ Prime Plus 6th">
+      <created>1577781823589</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577781823589</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77141000" />
+    <option name="totallyTimeSpent" value="84623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2247537" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23706897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24957411" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991013" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3525641" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.352518" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.42435896" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.4232614" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="CMake" order="12" visible="true" weight="0.3057554" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.30538923" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -532,61 +359,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="C++ Prime Plus 6th" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SourceCode/4th/instr/instr3.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SourceCode/4th/instr/instr2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/MinGW/lib/gcc/mingw32/8.2.0/include/c++/bits/stringfwd.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="70" column="10" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SourceCode/4th/string/strtype.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding>
-            <element signature="e#79#98#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SourceCode/4th/string/strtype3.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-          <folding>
-            <element signature="e#86#105#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SourceCode/4th/struct/structur.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SourceCode/4th/pointer/address.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SourceCode/4th/pointer/pointer.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -874,31 +646,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Keywords/Keywords_const.cpp">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="55" column="47" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_const.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+    <entry file="file://$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_inline.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_static.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_this.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_volatile.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+        <state relative-caret-position="252">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Keywords/Keywords_const_virtual.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_assert.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Keywords/Keywords_inline.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_sizeof.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Keywords/Keywords_static.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_union.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Keywords/Keywords_this.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_const_virtual.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_explicit.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GrammarKnowledge/Keywords/Keyword_structAndclass.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GrammarKnowledge/Keywords/Keywords_decltype.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#172#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

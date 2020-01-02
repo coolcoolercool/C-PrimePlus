@@ -51,8 +51,8 @@ add_executable(CPrimeplus main.cpp
         SourceCode/7th/FunctionAndArray/arrfun1.cpp SourceCode/7th/FunctionAndArray/arrfun2.cpp
         SourceCode/7th/FunctionAndArray/arrfun3.cpp SourceCode/7th/FunctionAndArray/arrfun4.cpp
 
-        Keywords/Keywords_const.cpp Keywords/Keywords_const_virtual.cpp
-        Keywords/Keywords_inline.cpp Keywords/Keywords_static.cpp
-        Keywords/Keywords_this.cpp
+        GrammarKnowledge/Keywords/Keywords_const.cpp GrammarKnowledge/Keywords/Keywords_const_virtual.cpp
+        GrammarKnowledge/Keywords/Keywords_inline.cpp GrammarKnowledge/Keywords/Keywords_static.cpp
+        GrammarKnowledge/Keywords/Keywords_this.cpp
 
-        )
+        GrammarKnowledge/Keywords/Keywords_volatile.cpp GrammarKnowledge/Keywords/Keywords_assert.cpp GrammarKnowledge/Keywords/Keywords_sizeof.cpp GrammarKnowledge/Keywords/Keyword_structAndclass.cpp GrammarKnowledge/Keywords/Keywords_union.cpp GrammarKnowledge/Keywords/Keywords_explicit.cpp GrammarKnowledge/Keywords/Keywords_decltype.cpp)

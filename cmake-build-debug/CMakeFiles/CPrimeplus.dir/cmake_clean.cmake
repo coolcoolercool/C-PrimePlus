@@ -78,6 +78,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/CPrimeplus.dir/GrammarKnowledge/Keywords/Keywords_union.cpp.obj"
   "CMakeFiles/CPrimeplus.dir/GrammarKnowledge/Keywords/Keywords_explicit.cpp.obj"
   "CMakeFiles/CPrimeplus.dir/GrammarKnowledge/Keywords/Keywords_decltype.cpp.obj"
+  "CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/tv.cpp.obj"
+  "CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/use_tv.cpp.obj"
   "CPrimeplus.pdb"
   "CPrimeplus.exe"
   "CPrimeplus.exe.manifest"

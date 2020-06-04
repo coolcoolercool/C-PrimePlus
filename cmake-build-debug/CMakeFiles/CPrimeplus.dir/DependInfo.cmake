@@ -34,6 +34,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "F:/C++Code/CPrimeplus/SourceCode/14th/student/use_stuc.cpp" "F:/C++Code/CPrimeplus/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/14th/student/use_stuc.cpp.obj"
   "F:/C++Code/CPrimeplus/SourceCode/14th/student_1/student_1.cpp" "F:/C++Code/CPrimeplus/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/student_1.cpp.obj"
   "F:/C++Code/CPrimeplus/SourceCode/14th/student_1/use_stui.cpp" "F:/C++Code/CPrimeplus/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/use_stui.cpp.obj"
+  "F:/C++Code/CPrimeplus/SourceCode/14th/tv/tv.cpp" "F:/C++Code/CPrimeplus/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/tv.cpp.obj"
+  "F:/C++Code/CPrimeplus/SourceCode/14th/tv/use_tv.cpp" "F:/C++Code/CPrimeplus/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/use_tv.cpp.obj"
   "F:/C++Code/CPrimeplus/SourceCode/14th/worker/Worker0.cpp" "F:/C++Code/CPrimeplus/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/Worker0.cpp.obj"
   "F:/C++Code/CPrimeplus/SourceCode/14th/worker/worktest.cpp" "F:/C++Code/CPrimeplus/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/14th/worker/worktest.cpp.obj"
   "F:/C++Code/CPrimeplus/SourceCode/2th/getinfo/getinfo.cpp" "F:/C++Code/CPrimeplus/cmake-build-debug/CMakeFiles/CPrimeplus.dir/SourceCode/2th/getinfo/getinfo.cpp.obj"

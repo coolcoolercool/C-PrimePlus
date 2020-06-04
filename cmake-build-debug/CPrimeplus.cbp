@@ -200,6 +200,15 @@
 		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/14th/student_1/use_stui.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/14th/tv/tv.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/14th/tv/tv.h">
+			<Option target="CPrimeplus"/>
+		</Unit>
+		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/14th/tv/use_tv.cpp">
+			<Option target="CPrimeplus"/>
+		</Unit>
 		<Unit filename="F:/C++Code/CPrimeplus/SourceCode/14th/worker/Worker0.cpp">
 			<Option target="CPrimeplus"/>
 		</Unit>

@@ -932,6 +932,60 @@ SourceCode/14th/student_1/use_stui.cpp.s:
 	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/student_1/use_stui.cpp.s
 .PHONY : SourceCode/14th/student_1/use_stui.cpp.s
 
+SourceCode/14th/tv/tv.obj: SourceCode/14th/tv/tv.cpp.obj
+
+.PHONY : SourceCode/14th/tv/tv.obj
+
+# target to build an object file
+SourceCode/14th/tv/tv.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/tv.cpp.obj
+.PHONY : SourceCode/14th/tv/tv.cpp.obj
+
+SourceCode/14th/tv/tv.i: SourceCode/14th/tv/tv.cpp.i
+
+.PHONY : SourceCode/14th/tv/tv.i
+
+# target to preprocess a source file
+SourceCode/14th/tv/tv.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/tv.cpp.i
+.PHONY : SourceCode/14th/tv/tv.cpp.i
+
+SourceCode/14th/tv/tv.s: SourceCode/14th/tv/tv.cpp.s
+
+.PHONY : SourceCode/14th/tv/tv.s
+
+# target to generate assembly for a file
+SourceCode/14th/tv/tv.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/tv.cpp.s
+.PHONY : SourceCode/14th/tv/tv.cpp.s
+
+SourceCode/14th/tv/use_tv.obj: SourceCode/14th/tv/use_tv.cpp.obj
+
+.PHONY : SourceCode/14th/tv/use_tv.obj
+
+# target to build an object file
+SourceCode/14th/tv/use_tv.cpp.obj:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/use_tv.cpp.obj
+.PHONY : SourceCode/14th/tv/use_tv.cpp.obj
+
+SourceCode/14th/tv/use_tv.i: SourceCode/14th/tv/use_tv.cpp.i
+
+.PHONY : SourceCode/14th/tv/use_tv.i
+
+# target to preprocess a source file
+SourceCode/14th/tv/use_tv.cpp.i:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/use_tv.cpp.i
+.PHONY : SourceCode/14th/tv/use_tv.cpp.i
+
+SourceCode/14th/tv/use_tv.s: SourceCode/14th/tv/use_tv.cpp.s
+
+.PHONY : SourceCode/14th/tv/use_tv.s
+
+# target to generate assembly for a file
+SourceCode/14th/tv/use_tv.cpp.s:
+	$(MAKE) -f CMakeFiles\CPrimeplus.dir\build.make CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/use_tv.cpp.s
+.PHONY : SourceCode/14th/tv/use_tv.cpp.s
+
 SourceCode/14th/worker/Worker0.obj: SourceCode/14th/worker/Worker0.cpp.obj
 
 .PHONY : SourceCode/14th/worker/Worker0.obj
@@ -2354,6 +2408,12 @@ help:
 	@echo ... SourceCode/14th/student_1/use_stui.obj
 	@echo ... SourceCode/14th/student_1/use_stui.i
 	@echo ... SourceCode/14th/student_1/use_stui.s
+	@echo ... SourceCode/14th/tv/tv.obj
+	@echo ... SourceCode/14th/tv/tv.i
+	@echo ... SourceCode/14th/tv/tv.s
+	@echo ... SourceCode/14th/tv/use_tv.obj
+	@echo ... SourceCode/14th/tv/use_tv.i
+	@echo ... SourceCode/14th/tv/use_tv.s
 	@echo ... SourceCode/14th/worker/Worker0.obj
 	@echo ... SourceCode/14th/worker/Worker0.i
 	@echo ... SourceCode/14th/worker/Worker0.s

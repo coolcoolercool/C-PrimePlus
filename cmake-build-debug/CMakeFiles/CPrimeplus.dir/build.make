@@ -1083,6 +1083,32 @@ CMakeFiles/CPrimeplus.dir/GrammarKnowledge/Keywords/Keywords_decltype.cpp.s: cma
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/GrammarKnowledge/Keywords/Keywords_decltype.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\GrammarKnowledge\Keywords\Keywords_decltype.cpp -o CMakeFiles\CPrimeplus.dir\GrammarKnowledge\Keywords\Keywords_decltype.cpp.s
 
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/tv.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/tv.cpp.obj: ../SourceCode/14th/tv/tv.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/tv.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\14th\tv\tv.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\14th\tv\tv.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/tv.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/tv.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\14th\tv\tv.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\14th\tv\tv.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/tv.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/tv.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\14th\tv\tv.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\14th\tv\tv.cpp.s
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/use_tv.cpp.obj: CMakeFiles/CPrimeplus.dir/flags.make
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/use_tv.cpp.obj: ../SourceCode/14th/tv/use_tv.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/use_tv.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPrimeplus.dir\SourceCode\14th\tv\use_tv.cpp.obj -c F:\C++Code\CPrimeplus\SourceCode\14th\tv\use_tv.cpp
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/use_tv.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/use_tv.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E F:\C++Code\CPrimeplus\SourceCode\14th\tv\use_tv.cpp > CMakeFiles\CPrimeplus.dir\SourceCode\14th\tv\use_tv.cpp.i
+
+CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/use_tv.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/use_tv.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S F:\C++Code\CPrimeplus\SourceCode\14th\tv\use_tv.cpp -o CMakeFiles\CPrimeplus.dir\SourceCode\14th\tv\use_tv.cpp.s
+
 # Object files for target CPrimeplus
 CPrimeplus_OBJECTS = \
 "CMakeFiles/CPrimeplus.dir/main.cpp.obj" \
@@ -1163,7 +1189,9 @@ CPrimeplus_OBJECTS = \
 "CMakeFiles/CPrimeplus.dir/GrammarKnowledge/Keywords/Keyword_structAndclass.cpp.obj" \
 "CMakeFiles/CPrimeplus.dir/GrammarKnowledge/Keywords/Keywords_union.cpp.obj" \
 "CMakeFiles/CPrimeplus.dir/GrammarKnowledge/Keywords/Keywords_explicit.cpp.obj" \
-"CMakeFiles/CPrimeplus.dir/GrammarKnowledge/Keywords/Keywords_decltype.cpp.obj"
+"CMakeFiles/CPrimeplus.dir/GrammarKnowledge/Keywords/Keywords_decltype.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/tv.cpp.obj" \
+"CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/use_tv.cpp.obj"
 
 # External object files for target CPrimeplus
 CPrimeplus_EXTERNAL_OBJECTS =
@@ -1247,11 +1275,13 @@ CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/GrammarKnowledge/Keywords/Keyword_stru
 CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/GrammarKnowledge/Keywords/Keywords_union.cpp.obj
 CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/GrammarKnowledge/Keywords/Keywords_explicit.cpp.obj
 CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/GrammarKnowledge/Keywords/Keywords_decltype.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/tv.cpp.obj
+CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/SourceCode/14th/tv/use_tv.cpp.obj
 CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/build.make
 CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/linklibs.rsp
 CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/objects1.rsp
 CPrimeplus.exe: CMakeFiles/CPrimeplus.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Linking CXX executable CPrimeplus.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\C++Code\CPrimeplus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Linking CXX executable CPrimeplus.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CPrimeplus.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
